@@ -1,0 +1,63 @@
+
+\documentclass[11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage[a4paper,margin=1in]{geometry}
+
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue
+}
+
+\lstdefinestyle{cppstyle}{
+    language=C++,
+    basicstyle=\ttfamily\footnotesize,
+    keywordstyle=\color{blue!60!black},
+    commentstyle=\color{gray!70},
+    stringstyle=\color{green!40!black},
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    breaklines=true,
+    frame=single,
+    rulecolor=\color{black!20},
+    tabsize=2,
+    showstringspaces=false,
+    columns=fullflexible,
+    keepspaces=true,
+    literate=
+        {→}{{$\rightarrow$}}1
+        {≤}{{$\leq$}}1
+        {≥}{{$\geq$}}1
+}
+
+\lstset{style=cppstyle}
+
+\begin{document}
+
+% -------- PORTADA --------
+\begin{titlepage}
+    \centering
+    \vspace*{\fill}
+    {\Huge Los Sabrossos}
+    \vspace*{\fill}
+\end{titlepage}
+
+% -------- PAGINA EN BLANCO --------
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+% -------- INDICE --------
+\newpage
+\tableofcontents
+\newpage
+
+\end{document}
