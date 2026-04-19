@@ -71,7 +71,7 @@ def escribir_header(f):
 \begin{titlepage}
     \centering
     \vspace*{\fill}
-    {\Huge amamemie competitive programming book}
+    {\Huge Los Sabrossos}
     \vspace*{\fill}
 \end{titlepage}
 
