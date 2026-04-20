@@ -1,4 +1,4 @@
-# TeamBook - Competitive Programming
+# Team NoteBook - Los Sabrossos
 
 Este repositorio permite generar un TeamBook en PDF a partir de archivos `.cpp`.
 
