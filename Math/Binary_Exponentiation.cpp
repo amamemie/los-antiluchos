@@ -1,6 +1,6 @@
-const ll mod = 998244353;
-ll pote(ll a, ll b){
-    ll ans = 1ll;
+const long long mod = 998244353;
+long long pote(long long a, long long b){
+    long long ans = 1ll;
     while(b){
         if(b&1) ans = (ans * a)%mod;
         b>>=1;
