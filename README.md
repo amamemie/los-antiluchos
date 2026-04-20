@@ -17,13 +17,17 @@ python3 script.py
 ### 2. Compilar el PDF
 
 ```bash
-pdflatex teambook.tex && rm *.aux *.log *.out *.toc
+pdflatex teambook.tex
 ```
 
-### 3. Si el índice no aparece
+### 3. Si el índice no aparece, compilar otra vez
 
 ```bash
-pdflatex teambook.tex && rm *.aux *.log *.out *.toc
+pdflatex teambook.tex
+```
+### 4. Eliminar archivos basura
+```bash
+rm *.aux *.log *.out *.toc
 ```
 ---
 
