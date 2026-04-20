@@ -1,6 +1,4 @@
 # Team NoteBook - Los Sabrossos
-`uwu`.
-
 ---
 
 ## Generación del PDF
