@@ -7,3 +7,4 @@ long long pote(long long a, long long b, long long mod){
     }
     return ans;
 }
+// a^-1 = a^mod-2 = pote(a,mod-2);
