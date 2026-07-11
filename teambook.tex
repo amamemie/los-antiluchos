@@ -1,0 +1,145 @@
+
+\documentclass[11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage[a4paper,margin=1in]{geometry}
+
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue
+}
+
+\lstdefinestyle{cppstyle}{
+    language=C++,
+    basicstyle=\ttfamily\footnotesize,
+    keywordstyle=\color{blue!60!black},
+    commentstyle=\color{gray!70},
+    stringstyle=\color{green!40!black},
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    breaklines=true,
+    frame=single,
+    rulecolor=\color{black!20},
+    tabsize=2,
+    showstringspaces=false,
+    columns=fullflexible,
+    keepspaces=true,
+    literate=
+        {→}{{$\rightarrow$}}1
+        {≤}{{$\leq$}}1
+        {≥}{{$\geq$}}1
+}
+
+\lstset{style=cppstyle}
+
+\begin{document}
+
+% -------- PORTADA --------
+\begin{titlepage}
+    \centering
+    \vspace*{\fill}
+    {\Huge Los Sabrossos}
+    \vspace*{\fill}
+\end{titlepage}
+
+% -------- PAGINA EN BLANCO --------
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+% -------- INDICE --------
+\newpage
+\tableofcontents
+\newpage
+
+\section{BIT MANIPULATION}
+
+\subsection{\texorpdfstring{Binary representation}{Binary representation}}
+\lstinputlisting{./Bit_Manipulation/Binary_Representation.cpp}
+
+\section{DATA STRUCTURES}
+
+\subsection{\texorpdfstring{Disjoint set union}{Disjoint set union}}
+\lstinputlisting{./Data Structures/Disjoint_Set_Union.cpp}
+
+\subsection{\texorpdfstring{Segment tree}{Segment tree}}
+\lstinputlisting{./Data Structures/Segment_Tree.cpp}
+
+\subsection{\texorpdfstring{Sparse table}{Sparse table}}
+\lstinputlisting{./Data Structures/Sparse_Table.cpp}
+
+\section{FLOW}
+
+\subsection{\texorpdfstring{Dinic}{Dinic}}
+\lstinputlisting{./Flow/Dinic.cpp}
+
+\section{GEOMETRY}
+
+\subsection{\texorpdfstring{Convex hull}{Convex hull}}
+\lstinputlisting{./Geometry/Convex_Hull.cpp}
+
+\subsection{\texorpdfstring{Point}{Point}}
+\lstinputlisting{./Geometry/Point.cpp}
+
+\section{GRAPH ALGORITHMS}
+
+\subsection{\texorpdfstring{Bfs}{Bfs}}
+\lstinputlisting{./Graph Algorithms/Bfs.cpp}
+
+\subsection{\texorpdfstring{Dfs}{Dfs}}
+\lstinputlisting{./Graph Algorithms/Dfs.cpp}
+
+\subsection{\texorpdfstring{Dijkstra}{Dijkstra}}
+\lstinputlisting{./Graph Algorithms/Dijkstra.cpp}
+
+\subsection{\texorpdfstring{Kruskal mst}{Kruskal mst}}
+\lstinputlisting{./Graph Algorithms/Kruskal_MST.cpp}
+
+\subsection{\texorpdfstring{Topological sort kahn algorithm}{Topological sort kahn algorithm}}
+\lstinputlisting{./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp}
+
+\section{MATH}
+
+\subsection{\texorpdfstring{Binary exponentiation}{Binary exponentiation}}
+\lstinputlisting{./Math/Binary_Exponentiation.cpp}
+
+\subsection{\texorpdfstring{Modular inverse}{Modular inverse}}
+\lstinputlisting{./Math/Modular_Inverse.cpp}
+
+\subsection{\texorpdfstring{Pollard rho rabin miller}{Pollard rho rabin miller}}
+\lstinputlisting{./Math/Pollard_Rho_Rabin_Miller.cpp}
+
+\subsection{\texorpdfstring{Sieve of eratosthenes}{Sieve of eratosthenes}}
+\lstinputlisting{./Math/Sieve_of_eratosthenes.cpp}
+
+\section{STRINGS}
+
+\subsection{\texorpdfstring{Hashing}{Hashing}}
+\lstinputlisting{./Strings/Hashing.cpp}
+
+\subsection{\texorpdfstring{Kmp}{Kmp}}
+\lstinputlisting{./Strings/KMP.cpp}
+
+\subsection{\texorpdfstring{Trie}{Trie}}
+\lstinputlisting{./Strings/Trie.cpp}
+
+\section{TREE ALGORITHMS}
+
+\subsection{\texorpdfstring{Binary lifting}{Binary lifting}}
+\lstinputlisting{./Tree Algorithms/Binary_Lifting.cpp}
+
+\subsection{\texorpdfstring{Euler tour}{Euler tour}}
+\lstinputlisting{./Tree Algorithms/Euler_Tour.cpp}
+
+\subsection{\texorpdfstring{Lowest common ancestor}{Lowest common ancestor}}
+\lstinputlisting{./Tree Algorithms/Lowest_Common_Ancestor.cpp}
+
+\end{document}

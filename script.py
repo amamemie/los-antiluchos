@@ -90,7 +90,8 @@ def escribir_footer(f):
     f.write("\n\\end{document}")
 
 def main():
-    with open(OUTPUT, "w") as f:
+    # MODIFICACIÓN: Añadido encoding="utf-8" para solucionar el error de caracteres en Windows
+    with open(OUTPUT, "w", encoding="utf-8") as f:
         escribir_header(f)
 
         for root, dirs, files in os.walk("."):
@@ -105,6 +106,8 @@ def main():
 
                 for file in sorted(cpp_files):
                     path = os.path.join(root, file)
+                    # MODIFICACIÓN CRÍTICA: Reemplazar las barras '\' de Windows por '/' para LaTeX
+                    path_latex = path.replace("\\", "/")
 
                     subsection_name = latex_escape(format_subsection(file))
                     index_name = subsection_name.capitalize()
@@ -112,7 +115,8 @@ def main():
                     f.write(
                         f"\n\\subsection{{\\texorpdfstring{{{subsection_name}}}{{{index_name}}}}}\n"
                     )
-                    f.write(f"\\lstinputlisting{{{path}}}\n")
+                    # Usamos la ruta corregida con barras inclinadas normales
+                    f.write(f"\\lstinputlisting{{{path_latex}}}\n")
 
         escribir_footer(f)
 
