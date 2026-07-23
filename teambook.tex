@@ -1,165 +1,140 @@
-
-\documentclass[11pt]{article}
-
+\documentclass[10pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-
-\usepackage[a4paper,margin=1in]{geometry}
-
+\usepackage[a4paper, top=2.6cm, bottom=2.6cm, left=2.8cm, right=2.8cm]{geometry}
 \usepackage{listings}
 \usepackage{xcolor}
 \usepackage{titlesec}
 \usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{accsupp}
 
-\hypersetup{
-    colorlinks=true,
-    linkcolor=black,
-    urlcolor=blue
-}
+\definecolor{graphite}{HTML}{2B2D31}
+\definecolor{navy}{HTML}{1B2A4A}
+\definecolor{navyaccent}{HTML}{2E4A7D}
+\definecolor{mutedgray}{HTML}{6B6E76}
+\definecolor{rulegray}{HTML}{C9CBD1}
+\definecolor{codebg}{HTML}{F7F7F8}
+\definecolor{codekeyword}{HTML}{4A4E8C}
+\definecolor{codecomment}{HTML}{6E7B6E}
+\definecolor{codestring}{HTML}{96603D}
+\definecolor{codenumber}{HTML}{B9B9BD}
+\definecolor{codetype}{HTML}{3E6B6B}
+\definecolor{ivory}{HTML}{FBFAF6}
+
+\hypersetup{colorlinks=true, linkcolor=navyaccent, urlcolor=navyaccent, pdftitle={Los Sabrossos}, pdfauthor={Team Los Sabrossos}}
+
+\newcommand{\noncopynumber}[1]{\BeginAccSupp{method=plain,ActualText={}}#1\EndAccSupp{}}
 
 \lstdefinestyle{cppstyle}{
-    language=C++,
-    basicstyle=\ttfamily\footnotesize,
-    keywordstyle=\color{blue!60!black},
-    commentstyle=\color{gray!70},
-    stringstyle=\color{green!40!black},
-    numbers=left,
-    numberstyle=\tiny\color{gray},
-    breaklines=true,
-    frame=single,
-    rulecolor=\color{black!20},
-    tabsize=2,
-    showstringspaces=false,
-    columns=fullflexible,
-    keepspaces=true,
-    literate=
-        {→}{{$\rightarrow$}}1
-        {≤}{{$\leq$}}1
-        {≥}{{$\geq$}}1
+  language=C++, basicstyle=\ttfamily\scriptsize, keywordstyle=\color{codekeyword}\bfseries,
+  commentstyle=\color{codecomment}\itshape, stringstyle=\color{codestring}, numberstyle=\tiny\color{codenumber}\noncopynumber,
+  numbers=left, frame=single, rulecolor=\color{rulegray}, backgroundcolor=\color{codebg},
+  breaklines=true, xleftmargin=1.8em, framexleftmargin=1.8em
 }
-
 \lstset{style=cppstyle}
 
+\titleformat{\section}{\Large\bfseries\color{navy}}{\thesection.\quad}{0em}{}[\vspace{2pt}{\color{rulegray}\titlerule[0.6pt]}]
+\titleformat{\subsection}{\normalsize\bfseries\color{graphite}}{\thesubsection.\quad}{0em}{}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\small\color{mutedgray}\scshape\leftmark}
+\lfoot{}\rfoot{\small\color{mutedgray}\thepage}
+\renewcommand{\headrule}{{\color{rulegray}\hrule height 0.4pt}}
+
+\fancypagestyle{plain}{\fancyhf{}\lfoot{}\rfoot{\small\color{mutedgray}\thepage}}
+
 \begin{document}
-
-% -------- PORTADA --------
 \begin{titlepage}
+    \pagecolor{ivory}
+    \color{graphite}
     \centering
-    \vspace*{\fill}
-    {\Huge Los Sabrossos}
-    \vspace*{\fill}
+    \vspace*{0.35\textheight}
+
+    {\color{navyaccent}\rule{0.32\textwidth}{0.6pt}}\\[1.8em]
+
+    {\fontsize{36}{40}\selectfont\bfseries\color{navy} Los Sabrossos}\\[1.8em]
+
+    {\color{navyaccent}\rule{0.32\textwidth}{0.6pt}}
+
 \end{titlepage}
+\pagecolor{white}\newpage\pagenumbering{roman}\tableofcontents\newpage\pagenumbering{arabic}
 
-% -------- PAGINA EN BLANCO --------
-\newpage
-\thispagestyle{empty}
-\mbox{}
-
-% -------- INDICE --------
-\newpage
-\tableofcontents
-\newpage
-
-\section{GEOMETRY}
-
-\subsection{\texorpdfstring{Convex hull}{Convex hull}}
-\lstinputlisting{./Geometry/Convex_Hull.cpp}
-
-\subsection{\texorpdfstring{Point}{Point}}
-\lstinputlisting{./Geometry/Point.cpp}
-
-\section{STRINGS}
-
-\subsection{\texorpdfstring{Aho corasick}{Aho corasick}}
-\lstinputlisting{./Strings/Aho_Corasick.cpp}
-
-\subsection{\texorpdfstring{Hashing}{Hashing}}
-\lstinputlisting{./Strings/Hashing.cpp}
-
-\subsection{\texorpdfstring{Kmp}{Kmp}}
-\lstinputlisting{./Strings/KMP.cpp}
-
-\subsection{\texorpdfstring{Suffix array}{Suffix array}}
-\lstinputlisting{./Strings/Suffix_Array.cpp}
-
-\subsection{\texorpdfstring{Trie}{Trie}}
-\lstinputlisting{./Strings/Trie.cpp}
-
-\section{BIT MANIPULATION}
-
-\subsection{\texorpdfstring{Binary representation}{Binary representation}}
-\lstinputlisting{./Bit_Manipulation/Binary_Representation.cpp}
-
-\section{UTILITIES}
-
-\subsection{\texorpdfstring{Merge sort}{Merge sort}}
-\lstinputlisting{./Utilities/Merge_Sort.cpp}
-
-\subsection{\texorpdfstring{Preffix sum 2d}{Preffix sum 2d}}
-\lstinputlisting{./Utilities/Preffix_Sum_2D.cpp}
-
-\section{TREE ALGORITHMS}
-
-\subsection{\texorpdfstring{Binary lifting}{Binary lifting}}
-\lstinputlisting{./Tree Algorithms/Binary_Lifting.cpp}
-
-\subsection{\texorpdfstring{Euler tour}{Euler tour}}
-\lstinputlisting{./Tree Algorithms/Euler_Tour.cpp}
-
-\subsection{\texorpdfstring{Lowest common ancestor}{Lowest common ancestor}}
-\lstinputlisting{./Tree Algorithms/Lowest_Common_Ancestor.cpp}
-
-\section{DATA STRUCTURES}
-
-\subsection{\texorpdfstring{Bit 2d}{Bit 2d}}
-\lstinputlisting{./Data Structures/Bit_2D.cpp}
-
-\subsection{\texorpdfstring{Disjoint set union}{Disjoint set union}}
-\lstinputlisting{./Data Structures/Disjoint_Set_Union.cpp}
-
-\subsection{\texorpdfstring{Implicit treap}{Implicit treap}}
-\lstinputlisting{./Data Structures/Implicit_Treap.cpp}
-
-\subsection{\texorpdfstring{Ordered set}{Ordered set}}
-\lstinputlisting{./Data Structures/Ordered_Set.cpp}
-
-\subsection{\texorpdfstring{Segment tree}{Segment tree}}
-\lstinputlisting{./Data Structures/Segment_Tree.cpp}
-
-\subsection{\texorpdfstring{Sparse table}{Sparse table}}
-\lstinputlisting{./Data Structures/Sparse_Table.cpp}
-
-\subsection{\texorpdfstring{Treap}{Treap}}
-\lstinputlisting{./Data Structures/Treap.cpp}
-
-\section{MATH}
-
-\subsection{\texorpdfstring{Binary exponentiation}{Binary exponentiation}}
+\section{Math}
+\subsection{\texorpdfstring{{Sieve of Eratosthenes}}{{Sieve of Eratosthenes}}}
+\lstinputlisting{./Math/Sieve_of_eratosthenes.cpp}
+\subsection{\texorpdfstring{{Binary Exponentiation}}{{Binary Exponentiation}}}
 \lstinputlisting{./Math/Binary_Exponentiation.cpp}
-
-\subsection{\texorpdfstring{Modular inverse}{Modular inverse}}
+\subsection{\texorpdfstring{{Modular Inverse}}{{Modular Inverse}}}
 \lstinputlisting{./Math/Modular_Inverse.cpp}
-
-\subsection{\texorpdfstring{Pollard rho rabin miller}{Pollard rho rabin miller}}
+\subsection{\texorpdfstring{{Pollard Rho Rabin Miller}}{{Pollard Rho Rabin Miller}}}
 \lstinputlisting{./Math/Pollard_Rho_Rabin_Miller.cpp}
 
-\subsection{\texorpdfstring{Sieve of eratosthenes}{Sieve of eratosthenes}}
-\lstinputlisting{./Math/Sieve_of_eratosthenes.cpp}
+\section{Geometry}
+\subsection{\texorpdfstring{{Convex Hull}}{{Convex Hull}}}
+\lstinputlisting{./Geometry/Convex_Hull.cpp}
+\subsection{\texorpdfstring{{Point}}{{Point}}}
+\lstinputlisting{./Geometry/Point.cpp}
 
-\section{FLOW}
+\section{Strings}
+\subsection{\texorpdfstring{{KMP}}{{KMP}}}
+\lstinputlisting{./Strings/KMP.cpp}
+\subsection{\texorpdfstring{{Trie}}{{Trie}}}
+\lstinputlisting{./Strings/Trie.cpp}
+\subsection{\texorpdfstring{{Suffix Array}}{{Suffix Array}}}
+\lstinputlisting{./Strings/Suffix_Array.cpp}
+\subsection{\texorpdfstring{{Aho Corasick}}{{Aho Corasick}}}
+\lstinputlisting{./Strings/Aho_Corasick.cpp}
+\subsection{\texorpdfstring{{Hashing}}{{Hashing}}}
+\lstinputlisting{./Strings/Hashing.cpp}
 
-\subsection{\texorpdfstring{Dinic}{Dinic}}
+\section{Bit Manipulation}
+\subsection{\texorpdfstring{{Binary Representation}}{{Binary Representation}}}
+\lstinputlisting{./Bit_Manipulation/Binary_Representation.cpp}
+
+\section{Data Structures}
+\subsection{\texorpdfstring{{Segment Tree}}{{Segment Tree}}}
+\lstinputlisting{./Data Structures/Segment_Tree.cpp}
+\subsection{\texorpdfstring{{Bit 2D}}{{Bit 2D}}}
+\lstinputlisting{./Data Structures/Bit_2D.cpp}
+\subsection{\texorpdfstring{{Disjoint Set Union}}{{Disjoint Set Union}}}
+\lstinputlisting{./Data Structures/Disjoint_Set_Union.cpp}
+\subsection{\texorpdfstring{{Implicit Treap}}{{Implicit Treap}}}
+\lstinputlisting{./Data Structures/Implicit_Treap.cpp}
+\subsection{\texorpdfstring{{Ordered Set}}{{Ordered Set}}}
+\lstinputlisting{./Data Structures/Ordered_Set.cpp}
+\subsection{\texorpdfstring{{Sparse Table}}{{Sparse Table}}}
+\lstinputlisting{./Data Structures/Sparse_Table.cpp}
+\subsection{\texorpdfstring{{Treap}}{{Treap}}}
+\lstinputlisting{./Data Structures/Treap.cpp}
+
+\section{Flow}
+\subsection{\texorpdfstring{{Dinic}}{{Dinic}}}
 \lstinputlisting{./Flow/Dinic.cpp}
 
-\section{GRAPH ALGORITHMS}
-
-\subsection{\texorpdfstring{Dijkstra}{Dijkstra}}
+\section{Graph Algorithms}
+\subsection{\texorpdfstring{{Dijkstra}}{{Dijkstra}}}
 \lstinputlisting{./Graph Algorithms/Dijkstra.cpp}
-
-\subsection{\texorpdfstring{Kruskal mst}{Kruskal mst}}
+\subsection{\texorpdfstring{{Kruskal MST}}{{Kruskal MST}}}
 \lstinputlisting{./Graph Algorithms/Kruskal_MST.cpp}
-
-\subsection{\texorpdfstring{Topological sort kahn algorithm}{Topological sort kahn algorithm}}
+\subsection{\texorpdfstring{{Topological Sort Kahn Algorithm}}{{Topological Sort Kahn Algorithm}}}
 \lstinputlisting{./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp}
+
+\section{Tree Algorithms}
+\subsection{\texorpdfstring{{Euler Tour}}{{Euler Tour}}}
+\lstinputlisting{./Tree Algorithms/Euler_Tour.cpp}
+\subsection{\texorpdfstring{{Binary Lifting}}{{Binary Lifting}}}
+\lstinputlisting{./Tree Algorithms/Binary_Lifting.cpp}
+\subsection{\texorpdfstring{{Centroid Decomposition}}{{Centroid Decomposition}}}
+\lstinputlisting{./Tree Algorithms/Centroid_Decomposition.cpp}
+\subsection{\texorpdfstring{{Lowest Common Ancestor}}{{Lowest Common Ancestor}}}
+\lstinputlisting{./Tree Algorithms/Lowest_Common_Ancestor.cpp}
+
+\section{Utilities}
+\subsection{\texorpdfstring{{Merge Sort}}{{Merge Sort}}}
+\lstinputlisting{./Utilities/Merge_Sort.cpp}
+\subsection{\texorpdfstring{{Preffix Sum 2D}}{{Preffix Sum 2D}}}
+\lstinputlisting{./Utilities/Preffix_Sum_2D.cpp}
 
 \end{document}

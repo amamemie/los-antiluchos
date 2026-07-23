@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  16 JUL 2026 10:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  21 JUL 2026 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count196
 \c@section=\count197
@@ -255,7 +255,32 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip53
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 18.
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip54
+\f@nch@offset@elh=\skip55
+\f@nch@offset@erh=\skip56
+\f@nch@offset@olh=\skip57
+\f@nch@offset@orh=\skip58
+\f@nch@offset@elf=\skip59
+\f@nch@offset@erf=\skip60
+\f@nch@offset@olf=\skip61
+\f@nch@offset@orf=\skip62
+\f@nch@height=\skip63
+\f@nch@footalignment=\skip64
+\f@nch@widthL=\skip65
+\f@nch@widthC=\skip66
+\f@nch@widthR=\skip67
+\@temptokenb=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp.sty
+Package: accsupp 2019/12/05 v0.6 Accessibility support by marked content (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp-pdftex.def
+File: accsupp-pdftex.def 2019/12/05 v0.6 accsupp driver for pdfTeX (HO)
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
@@ -274,24 +299,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 (./teambook.aux)
 \openout1 = `teambook.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -301,23 +326,23 @@ LaTeX Font Info:    ... okay on input line 43.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* h-part:(L,W,R)=(79.6678pt, 438.17227pt, 79.6678pt)
+* v-part:(T,H,B)=(73.97733pt, 697.0922pt, 73.97733pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=700.50687pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
+* \textwidth=438.17227pt
+* \textheight=697.0922pt
+* \oddsidemargin=7.39781pt
+* \evensidemargin=7.39781pt
+* \topmargin=-35.29266pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -335,14 +360,14 @@ LaTeX Font Info:    ... okay on input line 43.
 \scratchbox=\box56
 \nofMPsegments=\count296
 \nofMParguments=\count297
-\everyMPshowfont=\toks23
+\everyMPshowfont=\toks24
 \MPscratchCnt=\count298
 \MPscratchDim=\dimen164
 \MPnumerator=\count299
 \makeMPintoPDFobject=\count300
-\everyMPtoPDFconversion=\toks24
+\everyMPtoPDFconversion=\toks25
 )
-Package hyperref Info: Link coloring ON on input line 43.
+Package hyperref Info: Link coloring ON on input line 48.
  (./teambook.out) (./teambook.out)
 \@outlinefile=\write3
 \openout3 = `teambook.out'.
@@ -351,113 +376,122 @@ Package hyperref Info: Link coloring ON on input line 43.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.59 \newpage
-              [1] (./teambook.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./teambook.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 2.
+(Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 2.
+(Font)              <5> on input line 2.
 )
 \tf@toc=\write4
 \openout4 = `teambook.toc'.
 
 
 
-[2]
+[1]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 66.
- (./Geometry/Convex_Hull.cpp) (./Geometry/Point.cpp)
+ (./Math/Sieve_of_eratosthenes.cpp
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <7> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 1.
+) (./Math/Binary_Exponentiation.cpp)
+(./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
 
-[3] (./Strings/Aho_Corasick.cpp
 
-[4]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22     static 
+                const long long STEPS = 16ll; [1]) (./Geometry/Convex_Hull.cpp)
 
-[5])
 
-[6] (./Strings/Hashing.cpp) (./Strings/KMP.cpp
+[2] (./Geometry/Point.cpp) (./Strings/KMP.cpp
 
-[7]) (./Strings/Suffix_Array.cpp
+[3]) (./Strings/Trie.cpp) (./Strings/Suffix_Array.cpp
 
-[8]
+[4]) (./Strings/Aho_Corasick.cpp
 
-[9]) (./Strings/Trie.cpp) (./Bit_Manipulation/Binary_Representation.cpp)
+[5]
 
-[10] (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
+[6]
 
-[11]) (./Tree Algorithms/Binary_Lifting.cpp) (./Tree Algorithms/Euler_Tour.cpp
+[7]) (./Strings/Hashing.cpp) (./Bit_Manipulation/Binary_Representation.cpp)
+(./Data Structures/Segment_Tree.cpp
 
-[12]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
-(./Data Structures/Bit_2D.cpp
+[8]) (./Data Structures/Bit_2D.cpp
 
-[13])
-
-[14] (./Data Structures/Disjoint_Set_Union.cpp)
+[9]) (./Data Structures/Disjoint_Set_Union.cpp)
 (./Data Structures/Implicit_Treap.cpp
 
-[15])
+[10]) (./Data Structures/Ordered_Set.cpp
 
-[16] (./Data Structures/Ordered_Set.cpp) (./Data Structures/Segment_Tree.cpp
+[11]) (./Data Structures/Sparse_Table.cpp
 
-[17]) (./Data Structures/Sparse_Table.cpp
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 23.
+! LaTeX Error: Invalid UTF-8 byte sequence (â\lst@FillFixed@\lst@EC†).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
 ) (./Data Structures/Treap.cpp
 
-[18]
+[12]) (./Flow/Dinic.cpp
 
-[19]) (./Math/Binary_Exponentiation.cpp) (./Math/Modular_Inverse.cpp)
-(./Math/Pollard_Rho_Rabin_Miller.cpp
+[13]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
 
-[20]
+[14]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
 
-[21]) (./Math/Sieve_of_eratosthenes.cpp) (./Flow/Dinic.cpp
+[15] (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
 
-[22]) (./Graph Algorithms/Dijkstra.cpp
+[16]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Merge_Sort.cpp
 
-[23]) (./Graph Algorithms/Kruskal_MST.cpp
+[17]) (./Utilities/Preffix_Sum_2D.cpp)
 
-[24]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
-
-[25] (./teambook.aux)
+[18] (./teambook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: A6E9BD956C87C3630B8BB0AF89A8847F;4375.
+(rerunfilecheck)             Checksum: 51C42EF8EA9F6560FB30D117E4E0FF03;4546.
  ) 
 Here is how much of TeX's memory you used:
- 13493 strings out of 475178
- 201428 string characters out of 5766539
- 1468136 words of memory out of 5000000
- 34924 multiletter control sequences out of 15000+600000
- 570053 words of font info for 59 fonts, out of 8000000 for 9000
+ 13964 strings out of 475178
+ 210598 string characters out of 5766539
+ 1361571 words of memory out of 5000000
+ 35362 multiletter control sequences out of 15000+600000
+ 567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,270b,1970s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.
-600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0
-600.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-cbx1200.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm1095.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecbx1095.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecrm2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy9.pfb>
-Output written on teambook.pdf (26 pages, 180305 bytes).
+ 75i,13n,79p,270b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
+525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
+800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm0500.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
+ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
+/pk/ljfour/jknappen/ec/ecbx3583.600pk>
+Output written on teambook.pdf (20 pages, 252149 bytes).
 PDF statistics:
- 2199 PDF objects out of 2487 (max. 8388607)
- 1883 compressed objects within 19 object streams
- 1366 named destinations out of 1440 (max. 500000)
- 297 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2309 PDF objects out of 2487 (max. 8388607)
+ 1910 compressed objects within 20 object streams
+ 1392 named destinations out of 1440 (max. 500000)
+ 305 words of extra memory for PDF output out of 10000 (max. 10000000)
 
