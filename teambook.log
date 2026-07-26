@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  22 JUL 2026 22:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  26 JUL 2026 00:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -415,16 +415,20 @@ l.22     static
 
 [6]
 
-[7]) (./Strings/Hashing.cpp) (./Bit_Manipulation/Binary_Representation.cpp)
-(./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp
+[7]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp)
+(./Bit_Manipulation/Binary_Representation.cpp)
 
-[8]) (./Data Structures/BIT_Fenwick_Tree.cpp) (./Data Structures/Bit_2D.cpp
+[8] (./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp)
+(./Data Structures/BIT_Fenwick_Tree.cpp
 
-[9]) (./Data Structures/Disjoint_Set_Union.cpp
+[9]) (./Data Structures/Bit_2D.cpp
 
-[10]) (./Data Structures/Implicit_Treap.cpp
+[10]) (./Data Structures/Disjoint_Set_Union.cpp)
+(./Data Structures/Implicit_Treap.cpp
 
 [11]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+
+[12]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (â\lst@FillFixed@\lst@EC†).
 
@@ -445,24 +449,24 @@ Type  H <return>  for immediate help.
 l.23 // query(1, 4) â†’ 
                         [2, 4, 7, 1]
 ? 
-)
-
-[12] (./Data Structures/Treap.cpp
+) (./Data Structures/Treap.cpp
 
 [13]) (./Flow/Dinic.cpp
 
 [14]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
 
 [15]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
-(./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp
+(./Tree Algorithms/Euler_Tour.cpp
 
-[16]) (./Tree Algorithms/Centroid_Decomposition.cpp
+[16]) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
 
-[17]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp
+[17]
 
-[18]) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
+[18]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Merge_Sort.cpp
 
-[19])
+[19]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Random.cpp)
 
 [20] (./teambook.aux)
  ***********
@@ -470,30 +474,30 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 794A4566B7213F8A6D4C79CD81A0D692;4791.
+(rerunfilecheck)             Checksum: 8BF92453E6E3B5E74F4D760A8E653017;4977.
  ) 
 Here is how much of TeX's memory you used:
- 14152 strings out of 475178
- 213588 string characters out of 5766539
- 1361571 words of memory out of 5000000
- 35404 multiletter control sequences out of 15000+600000
+ 14217 strings out of 475178
+ 214603 string characters out of 5766539
+ 1387571 words of memory out of 5000000
+ 35434 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,13n,79p,270b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
-525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
-800.525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-crm0500.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
-ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
+ </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
+525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
+800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm0500.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
+ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (22 pages, 266757 bytes).
+Output written on teambook.pdf (22 pages, 272085 bytes).
 PDF statistics:
- 2496 PDF objects out of 2984 (max. 8388607)
- 2091 compressed objects within 21 object streams
- 1532 named destinations out of 1728 (max. 500000)
- 321 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2543 PDF objects out of 2984 (max. 8388607)
+ 2134 compressed objects within 22 object streams
+ 1561 named destinations out of 1728 (max. 500000)
+ 337 words of extra memory for PDF output out of 10000 (max. 10000000)
 

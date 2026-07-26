@@ -1,0 +1,759 @@
+Script iniciado en 2026-07-25 23:36:35-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ s[Kpy
+py3clean
+py3compile
+py3versions
+pydoc3
+pydoc3.13
+pygettext3
+pygettext3.13
+pygmentex
+pygmentize
+python3
+python3.13
+python3.13-config
+python3-config
+python-argcomplete-check-easy-install-script
+]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ python3 script.py 
+[?2004lGenerado: teambook.tex. Ejecuta: pdflatex teambook.tex
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ pdflatex
+[?2004lThis is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+**pd  ^C
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ pdflatex tesa[K[Kambook.tex 
+[?2004lThis is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./teambook.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstpatch.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./teambook.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (./teambook.out) (./teambook.out)
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./teambook.toc)
+[1] (./Math/Sieve_of_eratosthenes.cpp) (./Math/Binary_Exponentiation.cpp)
+(./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22     static 
+                const long long STEPS = 16ll; [1]) (./Geometry/Convex_Hull.cpp)
+
+[2] (./Geometry/Point.cpp) (./Strings/KMP.cpp
+[3]) (./Strings/Trie.cpp) (./Strings/Suffix_Array.cpp
+[4]) (./Strings/Aho_Corasick.cpp
+[5]
+[6]
+[7]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp)
+(./Bit_Manipulation/Binary_Representation.cpp)
+[8] (./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp)
+(./Data Structures/BIT_Fenwick_Tree.cpp
+[9]) (./Data Structures/Bit_2D.cpp
+[10]) (./Data Structures/Disjoint_Set_Union.cpp)
+(./Data Structures/Implicit_Treap.cpp
+[11]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+[12]
+
+! LaTeX Error: Invalid UTF-8 byte sequence (â\lst@FillFixed@\lst@EC†).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+) (./Data Structures/Treap.cpp
+[13]) (./Flow/Dinic.cpp
+[14]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[15]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Tree Algorithms/Euler_Tour.cpp
+[16]) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
+[17]
+[18]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Merge_Sort.cpp
+[19]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Random.cpp)
+[20] (./teambook.aux)
+
+Package rerunfilecheck Warning: File `teambook.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ ) </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
+525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
+800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm0500.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
+ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
+/pk/ljfour/jknappen/ec/ecbx3583.600pk>
+Output written on teambook.pdf (22 pages, 271861 bytes).
+Transcript written on teambook.log.
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ pdflatex teambook.tex 
+[?2004lThis is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./teambook.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstpatch.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./teambook.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (./teambook.out) (./teambook.out)
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./teambook.toc)
+[1] (./Math/Sieve_of_eratosthenes.cpp) (./Math/Binary_Exponentiation.cpp)
+(./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22     static 
+                const long long STEPS = 16ll; [1]) (./Geometry/Convex_Hull.cpp)
+
+[2] (./Geometry/Point.cpp) (./Strings/KMP.cpp
+[3]) (./Strings/Trie.cpp) (./Strings/Suffix_Array.cpp
+[4]) (./Strings/Aho_Corasick.cpp
+[5]
+[6]
+[7]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp)
+(./Bit_Manipulation/Binary_Representation.cpp)
+[8] (./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp)
+(./Data Structures/BIT_Fenwick_Tree.cpp
+[9]) (./Data Structures/Bit_2D.cpp
+[10]) (./Data Structures/Disjoint_Set_Union.cpp)
+(./Data Structures/Implicit_Treap.cpp
+[11]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+[12]
+
+! LaTeX Error: Invalid UTF-8 byte sequence (â\lst@FillFixed@\lst@EC†).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? ^[[A^[[B^[[B^[[B^[[B^C^C
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? ^C
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+) (./Data Structures/Treap.cpp
+[13]) (./Flow/Dinic.cpp
+[14]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[15]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Tree Algorithms/Euler_Tour.cpp
+[16]) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
+[17]
+[18]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Merge_Sort.cpp
+[19]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Random.cpp)
+[20] (./teambook.aux) ) </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/
+jknappen/ec/ecit0800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljf
+our/jknappen/ec/ectt0800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecrm0500.600pk> </home/amamemie/.texlive2025/texmf-var/font
+s/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/
+fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-
+var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/te
+xmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive202
+5/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texliv
+e2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx3583.600pk>
+Output written on teambook.pdf (22 pages, 272085 bytes).
+Transcript written on teambook.log.
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ pdflatex teambook.tex 
+[?2004lThis is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./teambook.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstpatch.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./teambook.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (./teambook.out) (./teambook.out)
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./teambook.toc)
+[1] (./Math/Sieve_of_eratosthenes.cpp) (./Math/Binary_Exponentiation.cpp)
+(./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22     static 
+                const long long STEPS = 16ll; [1]) (./Geometry/Convex_Hull.cpp)
+
+[2] (./Geometry/Point.cpp) (./Strings/KMP.cpp
+[3]) (./Strings/Trie.cpp) (./Strings/Suffix_Array.cpp
+[4]) (./Strings/Aho_Corasick.cpp
+[5]
+[6]
+[7]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp)
+(./Bit_Manipulation/Binary_Representation.cpp)
+[8] (./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp)
+(./Data Structures/BIT_Fenwick_Tree.cpp
+[9]) (./Data Structures/Bit_2D.cpp
+[10]) (./Data Structures/Disjoint_Set_Union.cpp)
+(./Data Structures/Implicit_Treap.cpp
+[11]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+[12]
+
+! LaTeX Error: Invalid UTF-8 byte sequence (â\lst@FillFixed@\lst@EC†).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+) (./Data Structures/Treap.cpp
+[13]) (./Flow/Dinic.cpp
+[14]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[15]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Tree Algorithms/Euler_Tour.cpp
+[16]) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
+[17]
+[18]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Merge_Sort.cpp
+[19]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Random.cpp)
+[20] (./teambook.aux) ) </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/
+jknappen/ec/ecit0800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljf
+our/jknappen/ec/ectt0800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecrm0500.600pk> </home/amamemie/.texlive2025/texmf-var/font
+s/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/
+fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-
+var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/te
+xmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive202
+5/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texliv
+e2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx3583.600pk>
+Output written on teambook.pdf (22 pages, 272085 bytes).
+Transcript written on teambook.log.
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ pdflatex teambook.tex 
+[?2004lThis is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./teambook.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstpatch.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./teambook.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (./teambook.out) (./teambook.out)
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./teambook.toc)
+[1] (./Math/Sieve_of_eratosthenes.cpp) (./Math/Binary_Exponentiation.cpp)
+(./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22     static 
+                const long long STEPS = 16ll; [1]) (./Geometry/Convex_Hull.cpp)
+
+[2] (./Geometry/Point.cpp) (./Strings/KMP.cpp
+[3]) (./Strings/Trie.cpp) (./Strings/Suffix_Array.cpp
+[4]) (./Strings/Aho_Corasick.cpp
+[5]
+[6]
+[7]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp)
+(./Bit_Manipulation/Binary_Representation.cpp)
+[8] (./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp)
+(./Data Structures/BIT_Fenwick_Tree.cpp
+[9]) (./Data Structures/Bit_2D.cpp
+[10]) (./Data Structures/Disjoint_Set_Union.cpp)
+(./Data Structures/Implicit_Treap.cpp
+[11]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+[12]
+
+! LaTeX Error: Invalid UTF-8 byte sequence (â\lst@FillFixed@\lst@EC†).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+) (./Data Structures/Treap.cpp
+[13]) (./Flow/Dinic.cpp
+[14]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[15]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Tree Algorithms/Euler_Tour.cpp
+[16]) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
+[17]
+[18]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Merge_Sort.cpp
+[19]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Random.cpp)
+[20] (./teambook.aux) ) </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/
+jknappen/ec/ecit0800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljf
+our/jknappen/ec/ectt0800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecrm0500.600pk> </home/amamemie/.texlive2025/texmf-var/font
+s/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/
+fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-
+var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/te
+xmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive202
+5/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texliv
+e2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx3583.600pk>
+Output written on teambook.pdf (22 pages, 272085 bytes).
+Transcript written on teambook.log.
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ cd [K[K[Kls
+[?2004l [0m[01;34mBit_Manipulation[0m    [01;34mMath[0m           teambook.log  [01;34m'Tree Algorithms'[0m
+[01;34m'Data Structures'[0m    README.md      teambook.out   typescript
+ [01;34mFlow[0m                script.py      teambook.pdf   [01;34mUtilities[0m
+ [01;34mGeometry[0m            [01;34mStrings[0m        teambook.tex
+[01;34m'Graph Algorithms'[0m   teambook.aux   teambook.toc
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ python3 script.py 
+[?2004lGenerado: teambook.tex. Ejecuta: pdflatex teambook.tex
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ pdflatex teambook.tex 
+[?2004lThis is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./teambook.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstpatch.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./teambook.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (./teambook.out) (./teambook.out)
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./teambook.toc)
+[1] (./Math/Sieve_of_eratosthenes.cpp) (./Math/Binary_Exponentiation.cpp)
+(./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22     static 
+                const long long STEPS = 16ll; [1]) (./Geometry/Convex_Hull.cpp)
+
+[2] (./Geometry/Point.cpp) (./Strings/KMP.cpp
+[3]) (./Strings/Trie.cpp) (./Strings/Suffix_Array.cpp
+[4]) (./Strings/Aho_Corasick.cpp
+[5]
+[6]
+[7]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp)
+(./Bit_Manipulation/Binary_Representation.cpp)
+[8] (./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp)
+(./Data Structures/BIT_Fenwick_Tree.cpp
+[9]) (./Data Structures/Bit_2D.cpp
+[10]) (./Data Structures/Disjoint_Set_Union.cpp)
+(./Data Structures/Implicit_Treap.cpp
+[11]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+[12]
+
+! LaTeX Error: Invalid UTF-8 byte sequence (â\lst@FillFixed@\lst@EC†).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) â†’ 
+                        [2, 4, 7, 1]
+? 
+) (./Data Structures/Treap.cpp
+[13]) (./Flow/Dinic.cpp
+[14]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[15]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Tree Algorithms/Euler_Tour.cpp
+[16]) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
+[17]
+[18]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Merge_Sort.cpp
+[19]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Random.cpp)
+[20] (./teambook.aux) ) </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/
+jknappen/ec/ecit0800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljf
+our/jknappen/ec/ectt0800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecrm0500.600pk> </home/amamemie/.texlive2025/texmf-var/font
+s/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/
+fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-
+var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/te
+xmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive202
+5/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texliv
+e2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx3583.600pk>
+Output written on teambook.pdf (22 pages, 272085 bytes).
+Transcript written on teambook.log.
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ pdflatex teambook.tex 
+[?2004lThis is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./teambook.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstpatch.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstm
