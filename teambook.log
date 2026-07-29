@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  29 JUL 2026 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  29 JUL 2026 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -426,9 +426,9 @@ l.22     static
 [10]) (./Data Structures/Disjoint_Set_Union.cpp)
 (./Data Structures/Implicit_Treap.cpp
 
-[11]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+[11]) (./Data Structures/Ordered_Set.cpp
 
-[12]
+[12]) (./Data Structures/Sparse_Table.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÜ).
 
@@ -526,30 +526,23 @@ l.21 // --- IMPRESI√ìN B√ÅSICA
 ? 
 
 
-[19]) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp)
+[19]) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
 
-[20] (./Utilities/Random.cpp)
+[20]) (./Utilities/Random.cpp)
 
 [21] (./teambook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-Package rerunfilecheck Warning: File `teambook.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `teambook.out':
-(rerunfilecheck)             Before: 8BF92453E6E3B5E74F4D760A8E653017;4977
-(rerunfilecheck)             After:  8A763FCF2ADE6DBF377AAEB50EEF1ADE;5065.
+Package rerunfilecheck Info: File `teambook.out' has not changed.
+(rerunfilecheck)             Checksum: 8A763FCF2ADE6DBF377AAEB50EEF1ADE;5065.
  ) 
 Here is how much of TeX's memory you used:
- 14281 strings out of 475178
- 215576 string characters out of 5766539
+ 14292 strings out of 475178
+ 215752 string characters out of 5766539
  1387571 words of memory out of 5000000
- 35454 multiletter control sequences out of 15000+600000
+ 35455 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,13n,79p,270b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -563,10 +556,10 @@ knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (23 pages, 276390 bytes).
+Output written on teambook.pdf (23 pages, 277668 bytes).
 PDF statistics:
- 2594 PDF objects out of 2984 (max. 8388607)
- 2184 compressed objects within 22 object streams
- 1602 named destinations out of 1728 (max. 500000)
- 337 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2610 PDF objects out of 2984 (max. 8388607)
+ 2200 compressed objects within 22 object streams
+ 1612 named destinations out of 1728 (max. 500000)
+ 345 words of extra memory for PDF output out of 10000 (max. 10000000)
 
