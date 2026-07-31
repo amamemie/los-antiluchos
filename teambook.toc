@@ -18,7 +18,7 @@
 \contentsline {subsection}{\numberline {4.2}{Bit Mask}}{9}{subsection.4.2}%
 \contentsline {section}{\numberline {5}Data Structures}{9}{section.5}%
 \contentsline {subsection}{\numberline {5.1}{Segment Tree}}{9}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}{BIT Fenwick Tree}}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.2}{BIT Fenwick Tree}}{10}{subsection.5.2}%
 \contentsline {subsection}{\numberline {5.3}{Bit 2D}}{10}{subsection.5.3}%
 \contentsline {subsection}{\numberline {5.4}{Disjoint Set Union}}{11}{subsection.5.4}%
 \contentsline {subsection}{\numberline {5.5}{Implicit Treap}}{11}{subsection.5.5}%
@@ -31,8 +31,8 @@
 \contentsline {subsection}{\numberline {7.1}{Dijkstra}}{15}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}{Kruskal MST}}{15}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}{Topological Sort Kahn Algorithm}}{16}{subsection.7.3}%
-\contentsline {section}{\numberline {8}Tree Algorithms}{16}{section.8}%
-\contentsline {subsection}{\numberline {8.1}{Euler Tour}}{16}{subsection.8.1}%
+\contentsline {section}{\numberline {8}Tree Algorithms}{17}{section.8}%
+\contentsline {subsection}{\numberline {8.1}{Euler Tour}}{17}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}{Binary Lifting}}{17}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}{Centroid Decomposition}}{17}{subsection.8.3}%
 \contentsline {subsection}{\numberline {8.4}{Lowest Common Ancestor}}{19}{subsection.8.4}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  29 JUL 2026 19:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  31 JUL 2026 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -416,12 +416,11 @@ l.22     static
 [6]
 
 [7]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp)
-(./Bit_Manipulation/Binary_Representation.cpp)
+(./Bit_Manipulation/Binary_Representation.cpp
 
-[8] (./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp)
-(./Data Structures/BIT_Fenwick_Tree.cpp
+[8]) (./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp)
 
-[9]) (./Data Structures/Bit_2D.cpp
+[9] (./Data Structures/BIT_Fenwick_Tree.cpp) (./Data Structures/Bit_2D.cpp
 
 [10]) (./Data Structures/Disjoint_Set_Union.cpp)
 (./Data Structures/Implicit_Treap.cpp
@@ -456,9 +455,8 @@ l.23 // query(1, 4) →
 [14]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
 
 [15]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
-(./Tree Algorithms/Euler_Tour.cpp
 
-[16]) (./Tree Algorithms/Binary_Lifting.cpp)
+[16] (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
 (./Tree Algorithms/Centroid_Decomposition.cpp
 
 [17]
@@ -484,6 +482,9 @@ Type  H <return>  for immediate help.
 l.1 // --- LECTURA BÁSICA 
                            ---
 ? 
+
+
+[19]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
 
@@ -524,9 +525,7 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESIÓN BÁSICA 
                                ---
 ? 
-
-
-[19]) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
+) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
 
 [20]) (./Utilities/Random.cpp)
 
@@ -539,9 +538,9 @@ Package rerunfilecheck Info: File `teambook.out' has not changed.
 (rerunfilecheck)             Checksum: 8A763FCF2ADE6DBF377AAEB50EEF1ADE;5065.
  ) 
 Here is how much of TeX's memory you used:
- 14292 strings out of 475178
- 215752 string characters out of 5766539
- 1387571 words of memory out of 5000000
+ 14299 strings out of 475178
+ 215864 string characters out of 5766539
+ 1400571 words of memory out of 5000000
  35455 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -556,10 +555,10 @@ knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (23 pages, 277668 bytes).
+Output written on teambook.pdf (23 pages, 278092 bytes).
 PDF statistics:
- 2610 PDF objects out of 2984 (max. 8388607)
- 2200 compressed objects within 22 object streams
- 1612 named destinations out of 1728 (max. 500000)
+ 2619 PDF objects out of 2984 (max. 8388607)
+ 2208 compressed objects within 23 object streams
+ 1619 named destinations out of 1728 (max. 500000)
  345 words of extra memory for PDF output out of 10000 (max. 10000000)
 
