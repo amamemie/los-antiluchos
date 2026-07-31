@@ -1,4 +1,3 @@
-const int N = 1e5;
 struct DSU{
     int num;
     vector<int> parent;
@@ -11,6 +10,7 @@ struct DSU{
         num = n;
         parent.resize(n+1);
         sizes.resize(n+1);
+        //si tienes index 0 inicializar desde 0
         for(int i = 1; i <= n ; i++){
             parent[i] = i;
             sizes[i] = 1;
@@ -27,12 +27,13 @@ struct DSU{
         num--;
         if(sizes[x] < sizes[y]){
             parent[x] = y;
-            sizes[y]+=sizes[x];
+            sizes[y] += sizes[x];
         }
         else{
             parent[y] = x;
-            sizes[x]+=sizes[y];
+            sizes[x] += sizes[y];
         }
         
     }
 };
+//Sabrossus
