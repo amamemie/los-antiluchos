@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.8.13)  13 AUG 2026 14:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.8.13)  13 AUG 2026 14:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -296,7 +296,7 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box55
 )
-No file teambook.aux.
+(./teambook.aux)
 \openout1 = `teambook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
@@ -317,6 +317,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -367,6 +368,7 @@ LaTeX Font Info:    ... okay on input line 48.
 \everyMPtoPDFconversion=\toks25
 )
 Package hyperref Info: Link coloring ON on input line 48.
+ (./teambook.out) (./teambook.out)
 \@outlinefile=\write3
 \openout3 = `teambook.out'.
 
@@ -374,8 +376,12 @@ Package hyperref Info: Link coloring ON on input line 48.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-No file teambook.toc.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./teambook.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
 \tf@toc=\write4
 \openout4 = `teambook.toc'.
 
@@ -530,37 +536,31 @@ l.21 // --- IMPRESIÓN BÁSICA
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-Package rerunfilecheck Warning: File `teambook.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `teambook.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  14059EBADFCBD9217865EE5E19E729A0;5309.
+Package rerunfilecheck Info: File `teambook.out' has not changed.
+(rerunfilecheck)             Checksum: 14059EBADFCBD9217865EE5E19E729A0;5309.
  ) 
 Here is how much of TeX's memory you used:
- 14321 strings out of 475178
- 216292 string characters out of 5766539
+ 14380 strings out of 475178
+ 217176 string characters out of 5766539
  1400571 words of memory out of 5000000
- 35422 multiletter control sequences out of 15000+600000
+ 35473 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,79p,255b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,79p,270b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800
 .525pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ect
 t0800.525pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/e
 c/ecrm0500.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecbx1000.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/
-jknappen/ec/ecrm0900.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/lj
-four/jknappen/ec/ecbx1440.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/
-pk/ljfour/jknappen/ec/eccc0900.600pk> </home/dilan8787/.texlive2025/texmf-var/f
-onts/pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (24 pages, 264707 bytes).
+pen/ec/ecrm0900.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/
+jknappen/ec/ecrm1000.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/lj
+four/jknappen/ec/ecbx1000.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/
+pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dilan8787/.texlive2025/texmf-var/f
+onts/pk/ljfour/jknappen/ec/eccc0900.600pk> </home/dilan8787/.texlive2025/texmf-
+var/fonts/pk/ljfour/jknappen/ec/ecbx3583.600pk>
+Output written on teambook.pdf (24 pages, 285983 bytes).
 PDF statistics:
- 2466 PDF objects out of 2487 (max. 8388607)
- 2104 compressed objects within 22 object streams
+ 2707 PDF objects out of 2984 (max. 8388607)
+ 2289 compressed objects within 23 object streams
  1678 named destinations out of 1728 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 361 words of extra memory for PDF output out of 10000 (max. 10000000)
 
