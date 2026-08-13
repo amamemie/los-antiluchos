@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.8.13)  13 AUG 2026 14:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  13 AUG 2026 15:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -450,16 +450,17 @@ l.23 // query(1, 4) →
 ? 
 ) (./Data Structures/Treap.cpp
 
-[13]) (./Dynamic_Programing/fastfibo.cpp
+[13]) (./Dynamic_Programing/Fibonacci Log(N).cpp)
+(./Dynamic_Programing/fastfibo.cpp
 
 [14]) (./Flow/Dinic.cpp
 
-[15]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[15]) (./Graph Algorithms/Dijkstra.cpp)
 
-[16]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
-(./Tree Algorithms/Euler_Tour.cpp
+[16] (./Graph Algorithms/Kruskal_MST.cpp)
+(./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp
 
-[17]) (./Tree Algorithms/Binary_Lifting.cpp)
+[17]) (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
 (./Tree Algorithms/Centroid_Decomposition.cpp
 
 [18]
@@ -485,6 +486,9 @@ Type  H <return>  for immediate help.
 l.1 // --- LECTURA BÁSICA 
                            ---
 ? 
+
+
+[20]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
 
@@ -525,42 +529,47 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESIÓN BÁSICA 
                                ---
 ? 
+) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
 
-
-[20]) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp)
-
-[21] (./Utilities/Random.cpp)
+[21]) (./Utilities/Random.cpp)
 
 [22] (./teambook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 14059EBADFCBD9217865EE5E19E729A0;5309.
+
+
+Package rerunfilecheck Warning: File `teambook.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `teambook.out':
+(rerunfilecheck)             Before: 14059EBADFCBD9217865EE5E19E729A0;5309
+(rerunfilecheck)             After:  B057F7E34000A2637E674C5D4B82E760;5456.
  ) 
 Here is how much of TeX's memory you used:
- 14380 strings out of 475178
- 217176 string characters out of 5766539
+ 14411 strings out of 475178
+ 217781 string characters out of 5766539
  1400571 words of memory out of 5000000
- 35473 multiletter control sequences out of 15000+600000
+ 35480 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,13n,79p,270b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800
-.525pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ect
-t0800.525pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/e
-c/ecrm0500.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm0900.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/ljfour/
-jknappen/ec/ecrm1000.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/pk/lj
-four/jknappen/ec/ecbx1000.600pk> </home/dilan8787/.texlive2025/texmf-var/fonts/
-pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dilan8787/.texlive2025/texmf-var/f
-onts/pk/ljfour/jknappen/ec/eccc0900.600pk> </home/dilan8787/.texlive2025/texmf-
-var/fonts/pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (24 pages, 285983 bytes).
+ </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
+525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
+800.525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm0500.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecrm1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
+ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
+/pk/ljfour/jknappen/ec/ecbx3583.600pk>
+Output written on teambook.pdf (24 pages, 288472 bytes).
 PDF statistics:
- 2707 PDF objects out of 2984 (max. 8388607)
- 2289 compressed objects within 23 object streams
- 1678 named destinations out of 1728 (max. 500000)
+ 2736 PDF objects out of 2984 (max. 8388607)
+ 2315 compressed objects within 24 object streams
+ 1699 named destinations out of 1728 (max. 500000)
  361 words of extra memory for PDF output out of 10000 (max. 10000000)
 
