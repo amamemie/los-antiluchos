@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  13 AUG 2026 15:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  13 AUG 2026 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,40 +394,39 @@ nput line 66.
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <7> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 1.
 ) (./Math/Binary_Exponentiation.cpp)
-(./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
+(./Math/Fibonacci Log(N).cpp) (./Math/Modular_Inverse.cpp)
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22     static 
-                const long long STEPS = 16ll; [1]) (./Geometry/Convex_Hull.cpp)
+l.73 ...abin Miller}}{{Pollard Rho Rabin Miller}}}
+                                                   [1]
+(./Math/Pollard_Rho_Rabin_Miller.cpp) (./Geometry/Convex_Hull.cpp
 
-
-[2] (./Geometry/Point.cpp) (./Strings/KMP.cpp
+[2]) (./Geometry/Point.cpp) (./Strings/KMP.cpp
 
 [3]) (./Strings/Trie.cpp) (./Strings/Suffix_Array.cpp
 
-[4]) (./Strings/Aho_Corasick.cpp
+[4]
 
-[5]
+[5]) (./Strings/Aho_Corasick.cpp
 
 [6]
 
-[7]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp)
-(./Bit_Manipulation/Binary_Representation.cpp
+[7]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp
 
-[8]) (./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp)
+[8]) (./Bit_Manipulation/Binary_Representation.cpp)
+(./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp
 
-[9] (./Data Structures/BIT_Fenwick_Tree.cpp) (./Data Structures/Bit_2D.cpp
+[9]) (./Data Structures/BIT_Fenwick_Tree.cpp) (./Data Structures/Bit_2D.cpp
 
 [10]) (./Data Structures/Disjoint_Set_Union.cpp)
-(./Data Structures/Implicit_Treap.cpp
 
-[11]) (./Data Structures/Ordered_Set.cpp
+[11] (./Data Structures/Implicit_Treap.cpp)
 
-[12]) (./Data Structures/Sparse_Table.cpp
+[12] (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (â\lst@FillFixed@\lst@EC†).
 
@@ -450,17 +449,15 @@ l.23 // query(1, 4) â†’
 ? 
 ) (./Data Structures/Treap.cpp
 
-[13]) (./Dynamic_Programing/Fibonacci Log(N).cpp)
-(./Dynamic_Programing/fastfibo.cpp
+[13]) (./Dynamic_Programing/fastfibo.cpp
 
 [14]) (./Flow/Dinic.cpp
 
-[15]) (./Graph Algorithms/Dijkstra.cpp)
+[15]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
 
-[16] (./Graph Algorithms/Kruskal_MST.cpp)
-(./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp
+[16]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
 
-[17]) (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
+[17] (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
 (./Tree Algorithms/Centroid_Decomposition.cpp
 
 [18]
@@ -545,31 +542,35 @@ Package rerunfilecheck Warning: File `teambook.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `teambook.out':
-(rerunfilecheck)             Before: 14059EBADFCBD9217865EE5E19E729A0;5309
-(rerunfilecheck)             After:  B057F7E34000A2637E674C5D4B82E760;5456.
+(rerunfilecheck)             Before: B057F7E34000A2637E674C5D4B82E760;5456
+(rerunfilecheck)             After:  5686548362F1A019CDC821EDCE563992;5456.
  ) 
 Here is how much of TeX's memory you used:
- 14411 strings out of 475178
- 217781 string characters out of 5766539
- 1400571 words of memory out of 5000000
- 35480 multiletter control sequences out of 15000+600000
+ 14413 strings out of 475178
+ 217831 string characters out of 5766539
+ 1436571 words of memory out of 5000000
+ 35481 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,79p,270b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
-525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
-800.525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-crm0500.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
-ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
-/pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (24 pages, 288472 bytes).
+ 75i,13n,86p,270b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{subsection.6.2} has been referenced but does not ex
+ist, replaced by a fixed one
+
+ </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.52
+5pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt080
+0.525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecr
+m0500.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec
+/ecrm0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappe
+n/ec/ecrm1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour
+/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/lj
+four/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/p
+k/ljfour/jknappen/ec/ecbx3583.600pk>
+Output written on teambook.pdf (24 pages, 288892 bytes).
 PDF statistics:
- 2736 PDF objects out of 2984 (max. 8388607)
- 2315 compressed objects within 24 object streams
- 1699 named destinations out of 1728 (max. 500000)
- 361 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2741 PDF objects out of 2984 (max. 8388607)
+ 2320 compressed objects within 24 object streams
+ 1700 named destinations out of 1728 (max. 500000)
+ 369 words of extra memory for PDF output out of 10000 (max. 10000000)
 
