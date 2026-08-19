@@ -15,3 +15,4 @@ ll prendidos(ll num, ll pos){
     }
     return ones;
 }
+//Sabrosson
