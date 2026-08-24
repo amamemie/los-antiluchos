@@ -756,4 +756,102 @@ Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/accsupp/accsupp-pdftex.def))
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstm
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./teambook.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (./teambook.out) (./teambook.out)
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./teambook.toc)
+[1] (./Math/Sieve_of_eratosthenes.cpp) (./Math/Binary_Exponentiation.cpp)
+(./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22     static 
+                const long long STEPS = 16ll; [1]) (./Geometry/Convex_Hull.cpp)
+
+[2] (./Geometry/Point.cpp) (./Strings/KMP.cpp
+[3]) (./Strings/Trie.cpp) (./Strings/Suffix_Array.cpp
+[4]) (./Strings/Aho_Corasick.cpp
+[5]
+[6]
+[7]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp)
+(./Bit_Manipulation/Binary_Representation.cpp)
+[8] (./Bit_Manipulation/Bit_Mask.cpp) (./Data Structures/Segment_Tree.cpp)
+(./Data Structures/BIT_Fenwick_Tree.cpp
+[9]) (./Data Structures/Bit_2D.cpp
+[10]) (./Data Structures/Disjoint_Set_Union.cpp)
+(./Data Structures/Implicit_Treap.cpp
+[11]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+[12]
+
+! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@EC�).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) → 
+                        [2, 4, 7, 1]
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 // query(1, 4) → 
+                        [2, 4, 7, 1]
+? 
+) (./Data Structures/Treap.cpp
+[13]) (./Flow/Dinic.cpp
+[14]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[15]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Tree Algorithms/Euler_Tour.cpp
+[16]) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
+[17]
+[18]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Merge_Sort.cpp
+[19]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Random.cpp)
+[20] (./teambook.aux) ) </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/
+jknappen/ec/ecit0800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljf
+our/jknappen/ec/ectt0800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecrm0500.600pk> </home/amamemie/.texlive2025/texmf-var/font
+s/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/
+fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-
+var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/te
+xmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive202
+5/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texliv
+e2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx3583.600pk>
+Output written on teambook.pdf (22 pages, 272085 bytes).
+Transcript written on teambook.log.
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ git add .
+[?2004l[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ git commit -m ""R"n"d"o"m"[1P"[1P"[1P"[1P"a"n"d"o"m" "a"n"d" "M"a"n"a"c"h"e"r"
+[?2004l[main ad47999] Random and Manacher
+ 9 files changed, 893 insertions(+), 93 deletions(-)
+ create mode 100644 Strings/Manacher.cpp
+ create mode 100644 Utilities/Random.cpp
+ create mode 100644 typescript
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ git push
+[?2004lUsername for 'https://github.com': amamemie
+Password for 'https://amamemie@github.com': 
+Enumerando objetos: 21, listo.
+Contando objetos:   4% (1/21)Contando objetos:   9% (2/21)Contando objetos:  14% (3/21)Contando objetos:  19% (4/21)Contando objetos:  23% (5/21)Contando objetos:  28% (6/21)Contando objetos:  33% (7/21)Contando objetos:  38% (8/21)Contando objetos:  42% (9/21)Contando objetos:  47% (10/21)Contando objetos:  52% (11/21)Contando objetos:  57% (12/21)Contando objetos:  61% (13/21)Contando objetos:  66% (14/21)Contando objetos:  71% (15/21)Contando objetos:  76% (16/21)Contando objetos:  80% (17/21)Contando objetos:  85% (18/21)Contando objetos:  90% (19/21)Contando objetos:  95% (20/21)Contando objetos: 100% (21/21)Contando objetos: 100% (21/21), listo.
+Compresión delta usando hasta 16 hilos
+Comprimiendo objetos:   7% (1/13)Comprimiendo objetos:  15% (2/13)Comprimiendo objetos:  23% (3/13)Comprimiendo objetos:  30% (4/13)Comprimiendo objetos:  38% (5/13)Comprimiendo objetos:  46% (6/13)Comprimiendo objetos:  53% (7/13)Comprimiendo objetos:  61% (8/13)Comprimiendo objetos:  69% (9/13)Comprimiendo objetos:  76% (10/13)Comprimiendo objetos:  84% (11/13)Comprimiendo objetos:  92% (12/13)Comprimiendo objetos: 100% (13/13)Comprimiendo objetos: 100% (13/13), listo.
+Escribiendo objetos:   7% (1/13)Escribiendo objetos:  15% (2/13)Escribiendo objetos:  23% (3/13)Escribiendo objetos:  30% (4/13)Escribiendo objetos:  38% (5/13)Escribiendo objetos:  46% (6/13)Escribiendo objetos:  53% (7/13)Escribiendo objetos:  61% (8/13)Escribiendo objetos:  69% (9/13)Escribiendo objetos:  76% (10/13)Escribiendo objetos:  84% (11/13)Escribiendo objetos:  92% (12/13)Escribiendo objetos: 100% (13/13)Escribiendo objetos: 100% (13/13), 127.84 KiB | 8.52 MiB/s, listo.
+Total 13 (delta 8), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas:   0% (0/8)[Kremote: Resolving deltas:  12% (1/8)[Kremote: Resolving deltas:  25% (2/8)[Kremote: Resolving deltas:  37% (3/8)[Kremote: Resolving deltas:  50% (4/8)[Kremote: Resolving deltas:  62% (5/8)[Kremote: Resolving deltas:  75% (6/8)[Kremote: Resolving deltas:  87% (7/8)[Kremote: Resolving deltas: 100% (8/8)[Kremote: Resolving deltas: 100% (8/8), completed with 8 local objects.[K
+To https://github.com/amamemie/los-antiluchos
+   b4ca23a..ad47999  main -> main
+[?2004h]0;amamemie@amamemie: ~/los-antiluchos[01;32mamamemie@amamemie[00m:[01;34m~/los-antiluchos[00m$ exit
+[?2004lexit
+
+Script terminado en 2026-07-26 00:02:29-04:00 [CÓDIGO_SALIDA_ORDEN="0"]
