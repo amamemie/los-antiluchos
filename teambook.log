@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 11:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -404,12 +404,12 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.26     }
-           [1]) (./Math/Fibonacci Log(N).cpp) (./Math/Modular_Inverse.cpp)
-(./Math/Pollard_Rho_Rabin_Miller.cpp
+           [1]) (./Math/Fibonacci Log(N).cpp) (./Math/Least Common Multiple.cpp
+) (./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
 
-[2]) (./Geometry/Convex_Hull.cpp)
+[2]) (./Geometry/Convex_Hull.cpp
 
-[3] (./Geometry/Point.cpp) (./Geometry/closest_pair_of_points_lineal.cpp
+[3]) (./Geometry/Point.cpp) (./Geometry/closest_pair_of_points_lineal.cpp
 
 [4]) (./Geometry/closest_pair_of_points_nlogn.cpp
 
@@ -437,33 +437,56 @@ l.27         // sacar puntos que ya est√°n
 ) (./Strings/KMP.cpp
 
 [6]) (./Strings/Z_Function.cpp) (./Strings/Trie.cpp)
-(./Strings/Suffix_Array.cpp
 
-[7]
+[7] (./Strings/Suffix_Array.cpp
 
 [8]) (./Strings/Aho_Corasick.cpp
 
 [9]
 
-[10]) (./Strings/Hashing.cpp
+[10]) (./Strings/Booths Algorithm.cpp
 
-[11]) (./Strings/Manacher.cpp) (./Bit_Manipulation/Binary_Representation.cpp)
+! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...goritmo para menor rotacion lexicograf√≠ca 
+                                                  de un string en O(N)
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...goritmo para menor rotacion lexicograf√≠ca 
+                                                  de un string en O(N)
+? 
+)
+
+[11] (./Strings/Hashing.cpp) (./Strings/Manacher.cpp
+
+[12]) (./Bit_Manipulation/Binary_Representation.cpp)
 (./Bit_Manipulation/Bit_Mask.cpp)
-(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp
+(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp)
+(./Bit_Manipulation/Turn off a bit at position x.cpp)
 
-[12]) (./Data Structures/Segment_Tree.cpp)
+[13] (./Data Structures/Segment_Tree.cpp)
+(./Data Structures/Segment_Tree_Lazy_Propagation.cpp
 
-[13] (./Data Structures/Segment_Tree_Lazy_Propagation.cpp)
+[14]) (./Data Structures/Bit_1D.cpp
 
-[14] (./Data Structures/Bit_1D.cpp) (./Data Structures/Bit_2D.cpp)
-(./Data Structures/Bit_3D.cpp
+[15]) (./Data Structures/Bit_2D.cpp) (./Data Structures/Bit_3D.cpp)
 
-[15]) (./Data Structures/Disjoint_Set_Union.cpp)
+[16] (./Data Structures/Disjoint_Set_Union.cpp)
 (./Data Structures/Implicit_Treap.cpp
 
-[16]) (./Data Structures/Ordered_Set.cpp
+[17]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
 
-[17]) (./Data Structures/Sparse_Table.cpp
+[18]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÜ).
 
@@ -486,26 +509,24 @@ l.23 // query(1, 4) ‚Üí
 ? 
 ) (./Data Structures/Treap.cpp
 
-[18]) (./Dynamic_Programing/Bounded_Knapsack.cpp
+[19]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
+(./Dynamic_Programing/Kadane_2D.cpp
 
-[19]) (./Dynamic_Programing/Kadane_2D.cpp) (./Dynamic_Programing/Kadane_3D.cpp)
-(./Dynamic_Programing/SOS_DP.cpp
+[20]) (./Dynamic_Programing/Kadane_3D.cpp) (./Dynamic_Programing/SOS_DP.cpp)
+(./Dynamic_Programing/fastfibo.cpp
 
-[20]) (./Dynamic_Programing/fastfibo.cpp) (./Flow/Dinic.cpp
+[21]) (./Flow/Dinic.cpp
 
-[21]) (./Graph Algorithms/Dijkstra.cpp
+[22]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
 
-[22]) (./Graph Algorithms/Kruskal_MST.cpp)
-(./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp
+[23]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
 
-[23]) (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
+[24] (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
 
+[25]
 
-[24] (./Tree Algorithms/Centroid_Decomposition.cpp
-
-[25]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
-
-[26] (./Utilities/Int128.cpp
+[26]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp) (./Utilities/Int128.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -526,6 +547,9 @@ Type  H <return>  for immediate help.
 l.1 // --- LECTURA B√ÅSICA 
                            ---
 ? 
+
+
+[27]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -566,26 +590,26 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESI√ìN B√ÅSICA 
                                ---
 ? 
-) (./Utilities/Merge_Sort.cpp
+) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
 
-[27]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Random.cpp)
+[28]) (./Utilities/Priority Queue Min Heap.cpp) (./Utilities/Random.cpp)
 (./Utilities/plantilla_python.cpp
 
-[28]) (./Utilities/pragma.cpp)
+[29]) (./Utilities/pragma.cpp)
 
-[29] (./teambook.aux)
+[30] (./teambook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 7D75FCAC12629FCB5C637E0C23270124;7502.
+(rerunfilecheck)             Checksum: 45C7DFDB89B2ED36C72A2ABCA858F1F0;8212.
  ) 
 Here is how much of TeX's memory you used:
- 15266 strings out of 475178
- 231977 string characters out of 5766539
- 1459571 words of memory out of 5000000
- 35738 multiletter control sequences out of 15000+600000
+ 15360 strings out of 475178
+ 234027 string characters out of 5766539
+ 1445571 words of memory out of 5000000
+ 35758 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,13n,83p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -599,10 +623,10 @@ knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (32 pages, 350446 bytes).
+Output written on teambook.pdf (33 pages, 361231 bytes).
 PDF statistics:
- 3504 PDF objects out of 3580 (max. 8388607)
- 3058 compressed objects within 31 object streams
- 2254 named destinations out of 2487 (max. 500000)
- 481 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3606 PDF objects out of 4296 (max. 8388607)
+ 3150 compressed objects within 32 object streams
+ 2316 named destinations out of 2487 (max. 500000)
+ 513 words of extra memory for PDF output out of 10000 (max. 10000000)
 
