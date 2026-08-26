@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  25 AUG 2026 21:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  25 AUG 2026 21:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -453,13 +453,14 @@ l.27         // sacar puntos que ya est√°n
 
 [12]) (./Data Structures/Segment_Tree_Lazy_Propagation.cpp
 
-[13]) (./Data Structures/BIT_Fenwick_Tree.cpp) (./Data Structures/Bit_2D.cpp
+[13]) (./Data Structures/Bit_1D.cpp) (./Data Structures/Bit_2D.cpp)
 
-[14]) (./Data Structures/Disjoint_Set_Union.cpp
+[14] (./Data Structures/Disjoint_Set_Union.cpp)
+(./Data Structures/Implicit_Treap.cpp
 
-[15]) (./Data Structures/Implicit_Treap.cpp
+[15]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
 
-[16]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+[16]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÜ).
 
@@ -482,18 +483,20 @@ l.23 // query(1, 4) ‚Üí
 ? 
 ) (./Data Structures/Treap.cpp
 
-[17]) (./Dynamic_Programing/Bounded_Knapsack.cpp
+[17]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
+(./Dynamic_Programing/Kadane_2D.cpp
 
-[18]) (./Dynamic_Programing/SOS_DP.cpp) (./Dynamic_Programing/fastfibo.cpp
+[18]) (./Dynamic_Programing/Kadane_3D.cpp) (./Dynamic_Programing/SOS_DP.cpp)
+(./Dynamic_Programing/fastfibo.cpp
 
 [19]) (./Flow/Dinic.cpp
 
-[20]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[20]) (./Graph Algorithms/Dijkstra.cpp)
 
-[21]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
-(./Tree Algorithms/Euler_Tour.cpp
+[21] (./Graph Algorithms/Kruskal_MST.cpp)
+(./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp
 
-[22]) (./Tree Algorithms/Binary_Lifting.cpp)
+[22]) (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
 (./Tree Algorithms/Centroid_Decomposition.cpp
 
 [23]
@@ -519,6 +522,9 @@ Type  H <return>  for immediate help.
 l.1 // --- LECTURA B√ÅSICA 
                            ---
 ? 
+
+
+[25]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -559,43 +565,42 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESI√ìN B√ÅSICA 
                                ---
 ? 
+) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
 
+[26]) (./Utilities/Random.cpp) (./Utilities/plantilla_python.cpp
 
-[25]) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp)
-(./Utilities/Random.cpp
+[27]) (./Utilities/pragma.cpp)
 
-[26]) (./Utilities/plantilla_python.cpp) (./Utilities/pragma.cpp)
-
-[27] (./teambook.aux)
+[28] (./teambook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 519BC03B0D50D9C9307743978DA6B29C;7145.
+(rerunfilecheck)             Checksum: 7916E57F10CFD5F7E7343180ACABDC8F;7304.
  ) 
 Here is how much of TeX's memory you used:
- 15103 strings out of 475178
- 229263 string characters out of 5766539
+ 15142 strings out of 475178
+ 229974 string characters out of 5766539
  1392571 words of memory out of 5000000
- 35696 multiletter control sequences out of 15000+600000
+ 35710 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,13n,83p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
-525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
-800.525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-crm0500.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
-ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
+ </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
+525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
+800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm0500.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
+ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (30 pages, 340669 bytes).
+Output written on teambook.pdf (31 pages, 342167 bytes).
 PDF statistics:
- 3349 PDF objects out of 3580 (max. 8388607)
- 2906 compressed objects within 30 object streams
- 2145 named destinations out of 2487 (max. 500000)
- 449 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3385 PDF objects out of 3580 (max. 8388607)
+ 2941 compressed objects within 30 object streams
+ 2164 named destinations out of 2487 (max. 500000)
+ 465 words of extra memory for PDF output out of 10000 (max. 10000000)
 
