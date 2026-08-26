@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 11:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -467,26 +467,70 @@ l.1 ...goritmo para menor rotacion lexicograf√≠ca
 ? 
 )
 
-[11] (./Strings/Hashing.cpp) (./Strings/Manacher.cpp
+[11] (./Strings/Hashing 2D.cpp
 
-[12]) (./Bit_Manipulation/Binary_Representation.cpp)
+! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21     // Hash de la matriz patr√≥n.
+                                      
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21     // Hash de la matriz patr√≥n.
+                                      
+? 
+
+
+[12]
+
+! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 ...eldas pertenecientes a alguna aparici√≥n.
+                                                  
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 ...eldas pertenecientes a alguna aparici√≥n.
+                                                  
+? 
+) (./Strings/Hashing.cpp
+
+[13]) (./Strings/Manacher.cpp) (./Bit_Manipulation/Binary_Representation.cpp)
 (./Bit_Manipulation/Bit_Mask.cpp)
-(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp)
-(./Bit_Manipulation/Turn off a bit at position x.cpp)
+(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp
 
-[13] (./Data Structures/Segment_Tree.cpp)
-(./Data Structures/Segment_Tree_Lazy_Propagation.cpp
+[14]) (./Bit_Manipulation/Turn off a bit at position x.cpp)
+(./Data Structures/Segment_Tree.cpp
 
-[14]) (./Data Structures/Bit_1D.cpp
+[15]) (./Data Structures/Segment_Tree_Lazy_Propagation.cpp
 
-[15]) (./Data Structures/Bit_2D.cpp) (./Data Structures/Bit_3D.cpp)
+[16]) (./Data Structures/Bit_1D.cpp) (./Data Structures/Bit_2D.cpp)
+(./Data Structures/Bit_3D.cpp
 
-[16] (./Data Structures/Disjoint_Set_Union.cpp)
+[17]) (./Data Structures/Disjoint_Set_Union.cpp)
 (./Data Structures/Implicit_Treap.cpp
 
-[17]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+[18]) (./Data Structures/Ordered_Set.cpp
 
-[18]
+[19]) (./Data Structures/Sparse_Table.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÜ).
 
@@ -509,24 +553,26 @@ l.23 // query(1, 4) ‚Üí
 ? 
 ) (./Data Structures/Treap.cpp
 
-[19]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
-(./Dynamic_Programing/Kadane_2D.cpp
+[20]) (./Dynamic_Programing/Bounded_Knapsack.cpp
 
-[20]) (./Dynamic_Programing/Kadane_3D.cpp) (./Dynamic_Programing/SOS_DP.cpp)
-(./Dynamic_Programing/fastfibo.cpp
+[21]) (./Dynamic_Programing/Kadane_2D.cpp) (./Dynamic_Programing/Kadane_3D.cpp)
 
-[21]) (./Flow/Dinic.cpp
 
-[22]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[22] (./Dynamic_Programing/SOS_DP.cpp) (./Dynamic_Programing/fastfibo.cpp)
+(./Flow/Dinic.cpp
 
-[23]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+[23]) (./Graph Algorithms/Dijkstra.cpp
 
-[24] (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
-(./Tree Algorithms/Centroid_Decomposition.cpp
+[24]) (./Graph Algorithms/Kruskal_MST.cpp)
 
-[25]
+[25] (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp
 
-[26]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp) (./Utilities/Int128.cpp
+[26]) (./Tree Algorithms/Centroid_Decomposition.cpp
+
+[27]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp
+
+[28]) (./Utilities/Int128.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -547,9 +593,6 @@ Type  H <return>  for immediate help.
 l.1 // --- LECTURA B√ÅSICA 
                            ---
 ? 
-
-
-[27]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -590,29 +633,29 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESI√ìN B√ÅSICA 
                                ---
 ? 
-) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
+) (./Utilities/Merge_Sort.cpp
 
-[28]) (./Utilities/Priority Queue Min Heap.cpp) (./Utilities/Random.cpp)
-(./Utilities/plantilla_python.cpp
+[29]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Priority Queue Min Heap.cpp
+) (./Utilities/Random.cpp) (./Utilities/plantilla_python.cpp
 
-[29]) (./Utilities/pragma.cpp)
+[30]) (./Utilities/pragma.cpp)
 
-[30] (./teambook.aux)
+[31] (./teambook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 45C7DFDB89B2ED36C72A2ABCA858F1F0;8212.
+(rerunfilecheck)             Checksum: 36E0542B508F8B919CD6C4353A4BDE34;8323.
  ) 
 Here is how much of TeX's memory you used:
- 15360 strings out of 475178
- 234027 string characters out of 5766539
- 1445571 words of memory out of 5000000
- 35758 multiletter control sequences out of 15000+600000
+ 15489 strings out of 475178
+ 236092 string characters out of 5766539
+ 1431571 words of memory out of 5000000
+ 35774 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,83p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,79p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
 525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
 800.525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
@@ -623,10 +666,10 @@ knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (33 pages, 361231 bytes).
+Output written on teambook.pdf (34 pages, 371967 bytes).
 PDF statistics:
- 3606 PDF objects out of 4296 (max. 8388607)
- 3150 compressed objects within 32 object streams
- 2316 named destinations out of 2487 (max. 500000)
- 513 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3748 PDF objects out of 4296 (max. 8388607)
+ 3289 compressed objects within 33 object streams
+ 2426 named destinations out of 2487 (max. 500000)
+ 521 words of extra memory for PDF output out of 10000 (max. 10000000)
 
