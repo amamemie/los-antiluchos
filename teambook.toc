@@ -56,11 +56,12 @@
 \contentsline {subsection}{\numberline {9.3}{Centroid Decomposition}}{27}{subsection.9.3}%
 \contentsline {subsection}{\numberline {9.4}{Lowest Common Ancestor}}{28}{subsection.9.4}%
 \contentsline {section}{\numberline {10}Utilities}{29}{section.10}%
-\contentsline {subsection}{\numberline {10.1}{ASCII TABLE}}{29}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}{Int128}}{29}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}{Merge Sort}}{30}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}{Preffix Sum 2D}}{31}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}{Priority Queue Min Heap}}{31}{subsection.10.5}%
-\contentsline {subsection}{\numberline {10.6}{Random}}{31}{subsection.10.6}%
-\contentsline {subsection}{\numberline {10.7}{Plantilla Python}}{31}{subsection.10.7}%
-\contentsline {subsection}{\numberline {10.8}{Pragma}}{32}{subsection.10.8}%
+\contentsline {subsection}{\numberline {10.1}{Prime Numbers}}{29}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}{ASCII TABLE}}{29}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}{Int128}}{30}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}{Merge Sort}}{30}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}{Preffix Sum 2D}}{31}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}{Priority Queue Min Heap}}{31}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}{Random}}{31}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}{Plantilla Python}}{32}{subsection.10.8}%
+\contentsline {subsection}{\numberline {10.9}{Pragma}}{32}{subsection.10.9}%

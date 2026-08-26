@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 12:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -572,7 +572,9 @@ l.23 // query(1, 4) →
 
 [27]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp
 
-[28]) (./Utilities/ASCII TABLE.cpp) (./Utilities/Int128.cpp
+[28]) (./Utilities/Prime Numbers.cpp) (./Utilities/ASCII TABLE.cpp
+
+[29]) (./Utilities/Int128.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
 
@@ -593,9 +595,6 @@ Type  H <return>  for immediate help.
 l.1 // --- LECTURA BÁSICA 
                            ---
 ? 
-
-
-[29]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
 
@@ -636,12 +635,12 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESIÓN BÁSICA 
                                ---
 ? 
-) (./Utilities/Merge_Sort.cpp)
+) (./Utilities/Merge_Sort.cpp
 
-[30] (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Priority Queue Min Heap.cpp)
-(./Utilities/Random.cpp) (./Utilities/plantilla_python.cpp
+[30]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Priority Queue Min Heap.cpp
+) (./Utilities/Random.cpp)
 
-[31]) (./Utilities/pragma.cpp)
+[31] (./Utilities/plantilla_python.cpp) (./Utilities/pragma.cpp)
 
 [32] (./teambook.aux)
  ***********
@@ -649,13 +648,13 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: BA4DD09BFBCE70EA095EC5B95F95E10A;8441.
+(rerunfilecheck)             Checksum: BCBF71F52785932DC5A722B307D3AC6E;8569.
  ) 
 Here is how much of TeX's memory you used:
- 15607 strings out of 475178
- 237751 string characters out of 5766539
- 1430571 words of memory out of 5000000
- 35822 multiletter control sequences out of 15000+600000
+ 15650 strings out of 475178
+ 238517 string characters out of 5766539
+ 1556571 words of memory out of 5000000
+ 35826 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,13n,79p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -669,10 +668,10 @@ knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (35 pages, 381188 bytes).
+Output written on teambook.pdf (35 pages, 385643 bytes).
 PDF statistics:
- 3844 PDF objects out of 4296 (max. 8388607)
- 3375 compressed objects within 34 object streams
- 2493 named destinations out of 2984 (max. 500000)
- 529 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3892 PDF objects out of 4296 (max. 8388607)
+ 3422 compressed objects within 35 object streams
+ 2529 named destinations out of 2984 (max. 500000)
+ 537 words of extra memory for PDF output out of 10000 (max. 10000000)
 
