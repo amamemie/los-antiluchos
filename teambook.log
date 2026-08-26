@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 09:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 10:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,23 +395,25 @@ nput line 66.
  (./Math/Sieve_of_eratosthenes.cpp
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <7> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 1.
-) (./Math/Binary_Exponentiation.cpp)
-(./Math/Extended_Euclides.cpp) (./Math/Fibonacci Log(N).cpp
+) (./Math/Euler_Phi.cpp)
+(./Math/Binary_Exponentiation.cpp) (./Math/Extended_Euclides.cpp
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.10             n 
-                   = n / 2; [1]) (./Math/Modular_Inverse.cpp)
+l.26     }
+           [1]) (./Math/Fibonacci Log(N).cpp) (./Math/Modular_Inverse.cpp)
 (./Math/Pollard_Rho_Rabin_Miller.cpp
 
-[2]) (./Geometry/Convex_Hull.cpp) (./Geometry/Point.cpp
+[2]) (./Geometry/Convex_Hull.cpp)
 
-[3]) (./Geometry/closest_pair_of_points_lineal.cpp
+[3] (./Geometry/Point.cpp) (./Geometry/closest_pair_of_points_lineal.cpp
 
 [4]) (./Geometry/closest_pair_of_points_nlogn.cpp
+
+[5]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -432,37 +434,36 @@ Type  H <return>  for immediate help.
 l.27         // sacar puntos que ya est√°n 
                                            demasiado lejos en x
 ? 
+) (./Strings/KMP.cpp
 
+[6]) (./Strings/Z_Function.cpp) (./Strings/Trie.cpp)
+(./Strings/Suffix_Array.cpp
 
-[5]) (./Strings/KMP.cpp) (./Strings/Z_Function.cpp
+[7]
 
-[6]) (./Strings/Trie.cpp) (./Strings/Suffix_Array.cpp
-
-[7])
-
-[8] (./Strings/Aho_Corasick.cpp
+[8]) (./Strings/Aho_Corasick.cpp
 
 [9]
 
-[10]) (./Strings/Hashing.cpp)
+[10]) (./Strings/Hashing.cpp
 
-[11] (./Strings/Manacher.cpp) (./Bit_Manipulation/Binary_Representation.cpp)
+[11]) (./Strings/Manacher.cpp) (./Bit_Manipulation/Binary_Representation.cpp)
 (./Bit_Manipulation/Bit_Mask.cpp)
-(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp)
+(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp
 
-[12] (./Data Structures/Segment_Tree.cpp)
-(./Data Structures/Segment_Tree_Lazy_Propagation.cpp
+[12]) (./Data Structures/Segment_Tree.cpp)
 
-[13]) (./Data Structures/Bit_1D.cpp
+[13] (./Data Structures/Segment_Tree_Lazy_Propagation.cpp)
 
-[14]) (./Data Structures/Bit_2D.cpp) (./Data Structures/Bit_3D.cpp)
-(./Data Structures/Disjoint_Set_Union.cpp
+[14] (./Data Structures/Bit_1D.cpp) (./Data Structures/Bit_2D.cpp)
+(./Data Structures/Bit_3D.cpp
 
-[15]) (./Data Structures/Implicit_Treap.cpp
+[15]) (./Data Structures/Disjoint_Set_Union.cpp)
+(./Data Structures/Implicit_Treap.cpp
 
-[16]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Sparse_Table.cpp
+[16]) (./Data Structures/Ordered_Set.cpp
 
-[17]
+[17]) (./Data Structures/Sparse_Table.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÜ).
 
@@ -485,24 +486,26 @@ l.23 // query(1, 4) ‚Üí
 ? 
 ) (./Data Structures/Treap.cpp
 
-[18]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
-(./Dynamic_Programing/Kadane_2D.cpp
+[18]) (./Dynamic_Programing/Bounded_Knapsack.cpp
 
-[19]) (./Dynamic_Programing/Kadane_3D.cpp) (./Dynamic_Programing/SOS_DP.cpp)
-(./Dynamic_Programing/fastfibo.cpp
+[19]) (./Dynamic_Programing/Kadane_2D.cpp) (./Dynamic_Programing/Kadane_3D.cpp)
+(./Dynamic_Programing/SOS_DP.cpp
 
-[20]) (./Flow/Dinic.cpp
+[20]) (./Dynamic_Programing/fastfibo.cpp) (./Flow/Dinic.cpp
 
-[21]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[21]) (./Graph Algorithms/Dijkstra.cpp
 
-[22]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+[22]) (./Graph Algorithms/Kruskal_MST.cpp)
+(./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp
 
-[23] (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
-(./Tree Algorithms/Centroid_Decomposition.cpp
+[23]) (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
 
-[24]
 
-[25]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp) (./Utilities/Int128.cpp
+[24] (./Tree Algorithms/Centroid_Decomposition.cpp
+
+[25]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+
+[26] (./Utilities/Int128.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -523,9 +526,6 @@ Type  H <return>  for immediate help.
 l.1 // --- LECTURA B√ÅSICA 
                            ---
 ? 
-
-
-[26]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -566,11 +566,12 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESI√ìN B√ÅSICA 
                                ---
 ? 
-) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
+) (./Utilities/Merge_Sort.cpp
 
-[27]) (./Utilities/Random.cpp) (./Utilities/plantilla_python.cpp)
+[27]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Random.cpp)
+(./Utilities/plantilla_python.cpp
 
-[28] (./Utilities/pragma.cpp)
+[28]) (./Utilities/pragma.cpp)
 
 [29] (./teambook.aux)
  ***********
@@ -578,16 +579,16 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 8AB308926F13A8A06B822E60FB49810B;7396.
+(rerunfilecheck)             Checksum: 7D75FCAC12629FCB5C637E0C23270124;7502.
  ) 
 Here is how much of TeX's memory you used:
- 15240 strings out of 475178
- 231457 string characters out of 5766539
- 1409571 words of memory out of 5000000
- 35732 multiletter control sequences out of 15000+600000
+ 15266 strings out of 475178
+ 231977 string characters out of 5766539
+ 1459571 words of memory out of 5000000
+ 35738 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,86p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,83p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
 525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
 800.525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
@@ -598,10 +599,10 @@ knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (32 pages, 349655 bytes).
+Output written on teambook.pdf (32 pages, 350446 bytes).
 PDF statistics:
- 3480 PDF objects out of 3580 (max. 8388607)
- 3034 compressed objects within 31 object streams
- 2237 named destinations out of 2487 (max. 500000)
- 473 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3504 PDF objects out of 3580 (max. 8388607)
+ 3058 compressed objects within 31 object streams
+ 2254 named destinations out of 2487 (max. 500000)
+ 481 words of extra memory for PDF output out of 10000 (max. 10000000)
 
