@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 21:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 22:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -471,9 +471,9 @@ l.40 // x ‚â°
 [2] (./Math/Fibonacci Log(N).cpp) (./Math/Least Common Multiple.cpp)
 (./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
 
-[3]) (./Geometry/Convex_Hull.cpp)
+[3]) (./Geometry/Convex_Hull.cpp
 
-[4] (./Geometry/Point.cpp) (./Geometry/closest_pair_of_points_lineal.cpp
+[4]) (./Geometry/Point.cpp) (./Geometry/closest_pair_of_points_lineal.cpp
 
 [5]) (./Geometry/closest_pair_of_points_nlogn.cpp
 
@@ -500,10 +500,9 @@ l.27         // sacar puntos que ya est√°n
 ? 
 ) (./Strings/KMP.cpp
 
-[7]) (./Strings/Z_Function.cpp) (./Strings/Trie.cpp)
-(./Strings/Suffix_Array.cpp
+[7]) (./Strings/Z_Function.cpp) (./Strings/Trie.cpp
 
-[8]
+[8]) (./Strings/Suffix_Array.cpp
 
 [9]) (./Strings/Aho_Corasick.cpp
 
@@ -530,9 +529,9 @@ Type  H <return>  for immediate help.
 l.1 ...goritmo para menor rotacion lexicograf√≠ca 
                                                   de un string en O(N)
 ? 
-) (./Strings/Hashing 2D.cpp
 
-[12]
+
+[12]) (./Strings/Hashing 2D.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -580,15 +579,15 @@ l.100 ...eldas pertenecientes a alguna aparici√≥n.
 
 [14]) (./Strings/Manacher.cpp) (./Bit_Manipulation/Binary_Representation.cpp)
 (./Bit_Manipulation/Bit_Mask.cpp)
-(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp)
+(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp
 
-[15] (./Bit_Manipulation/Turn off a bit at position x.cpp)
-(./Data Structures/Segment_Tree.cpp)
-(./Data Structures/Segment_Tree_Lazy_Propagation.cpp
+[15]) (./Bit_Manipulation/Turn off a bit at position x.cpp)
+(./Data Structures/Segment_Tree.cpp
 
-[16]) (./Data Structures/Bit_1D.cpp
+[16]) (./Data Structures/Segment_Tree_Lazy_Propagation.cpp
 
-[17]) (./Data Structures/Bit_2D.cpp) (./Data Structures/Bit_3D.cpp
+[17]) (./Data Structures/Bit_1D.cpp) (./Data Structures/Bit_2D.cpp)
+(./Data Structures/Bit_3D.cpp
 
 [18]) (./Data Structures/Disjoint_Set_Union.cpp)
 (./Data Structures/Implicit_Treap.cpp
@@ -596,6 +595,8 @@ l.100 ...eldas pertenecientes a alguna aparici√≥n.
 [19]) (./Data Structures/Ordered_Set.cpp
 
 [20]) (./Data Structures/Range_Bit.cpp) (./Data Structures/Sparse_Table.cpp
+
+[21]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÜ).
 
@@ -618,12 +619,11 @@ l.23 // query(1, 4) ‚Üí
 ? 
 ) (./Data Structures/Treap.cpp
 
-[21])
+[22]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
+(./Dynamic_Programing/Kadane_2D.cpp)
 
-[22] (./Dynamic_Programing/Bounded_Knapsack.cpp)
-(./Dynamic_Programing/Kadane_2D.cpp) (./Dynamic_Programing/Kadane_3D.cpp
-
-[23]) (./Dynamic_Programing/SOS_DP.cpp) (./Dynamic_Programing/fastfibo.cpp
+[23] (./Dynamic_Programing/Kadane_3D.cpp) (./Dynamic_Programing/SOS_DP.cpp)
+(./Dynamic_Programing/fastfibo.cpp
 
 [24]) (./Flow/Dinic.cpp
 
@@ -635,12 +635,12 @@ l.23 // query(1, 4) ‚Üí
 [27]) (./Tree Algorithms/Binary_Lifting.cpp)
 (./Tree Algorithms/Centroid_Decomposition.cpp
 
-[28])
+[28]
 
-[29] (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
-(./Utilities/Prime Numbers.cpp)
+[29]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Prime Numbers.cpp
 
-[30] (./Utilities/ASCII TABLE.cpp) (./Utilities/Int128.cpp
+[30]) (./Utilities/ASCII TABLE.cpp) (./Utilities/Int128.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -720,13 +720,13 @@ Package rerunfilecheck Info: File `teambook.out' has not changed.
 (rerunfilecheck)             Checksum: 5BCBB0DFE8C6A4CBECBAF3FFF8C31842;8840.
  ) 
 Here is how much of TeX's memory you used:
- 15796 strings out of 475178
- 240871 string characters out of 5766539
- 1511571 words of memory out of 5000000
+ 15807 strings out of 475178
+ 241036 string characters out of 5766539
+ 1481571 words of memory out of 5000000
  35851 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,83p,378b,2002s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,83p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
 525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
 800.525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
@@ -737,10 +737,10 @@ knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (37 pages, 397895 bytes).
+Output written on teambook.pdf (37 pages, 399277 bytes).
 PDF statistics:
- 4049 PDF objects out of 4296 (max. 8388607)
- 3576 compressed objects within 36 object streams
- 2644 named destinations out of 2984 (max. 500000)
+ 4062 PDF objects out of 4296 (max. 8388607)
+ 3589 compressed objects within 36 object streams
+ 2655 named destinations out of 2984 (max. 500000)
  553 words of extra memory for PDF output out of 10000 (max. 10000000)
 

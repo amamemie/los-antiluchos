@@ -17,10 +17,10 @@
 \contentsline {subsection}{\numberline {3.1}{KMP}}{7}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}{Z Function}}{8}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}{Trie}}{8}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}{Suffix Array}}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.4}{Suffix Array}}{9}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}{Aho Corasick}}{10}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6}{Booths Algorithm}}{12}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}{Hashing 2D}}{12}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.7}{Hashing 2D}}{13}{subsection.3.7}%
 \contentsline {subsection}{\numberline {3.8}{Hashing}}{14}{subsection.3.8}%
 \contentsline {subsection}{\numberline {3.9}{Manacher}}{15}{subsection.3.9}%
 \contentsline {section}{\numberline {4}Bit Manipulation}{15}{section.4}%
@@ -30,8 +30,8 @@
 \contentsline {subsection}{\numberline {4.4}{Turn Off a Bit at Position X}}{16}{subsection.4.4}%
 \contentsline {section}{\numberline {5}Data Structures}{16}{section.5}%
 \contentsline {subsection}{\numberline {5.1}{Segment Tree}}{16}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}{Segment Tree Lazy Propagation}}{16}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}{Bit 1D}}{17}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.2}{Segment Tree Lazy Propagation}}{17}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}{Bit 1D}}{18}{subsection.5.3}%
 \contentsline {subsection}{\numberline {5.4}{Bit 2D}}{18}{subsection.5.4}%
 \contentsline {subsection}{\numberline {5.5}{Bit 3D}}{18}{subsection.5.5}%
 \contentsline {subsection}{\numberline {5.6}{Disjoint Set Union}}{19}{subsection.5.6}%
@@ -39,11 +39,11 @@
 \contentsline {subsection}{\numberline {5.8}{Ordered Set}}{20}{subsection.5.8}%
 \contentsline {subsection}{\numberline {5.9}{Range Bit}}{21}{subsection.5.9}%
 \contentsline {subsection}{\numberline {5.10}{Sparse Table}}{21}{subsection.5.10}%
-\contentsline {subsection}{\numberline {5.11}{Treap}}{21}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5.11}{Treap}}{22}{subsection.5.11}%
 \contentsline {section}{\numberline {6}Dynamic Programing}{23}{section.6}%
 \contentsline {subsection}{\numberline {6.1}{Bounded Knapsack}}{23}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}{Kadane 2D}}{23}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}{Kadane 3D}}{23}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.3}{Kadane 3D}}{24}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}{SOS DP}}{24}{subsection.6.4}%
 \contentsline {subsection}{\numberline {6.5}{Fastfibo}}{24}{subsection.6.5}%
 \contentsline {section}{\numberline {7}Flow}{25}{section.7}%
