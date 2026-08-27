@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  26 AUG 2026 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  26 AUG 2026 20:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -530,7 +530,9 @@ l.100 ...eldas pertenecientes a alguna aparici√≥n.
 
 [18]) (./Data Structures/Ordered_Set.cpp
 
-[19]) (./Data Structures/Sparse_Table.cpp
+[19]) (./Data Structures/Range_Bit.cpp) (./Data Structures/Sparse_Table.cpp
+
+[20]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÜ).
 
@@ -553,26 +555,28 @@ l.23 // query(1, 4) ‚Üí
 ? 
 ) (./Data Structures/Treap.cpp
 
-[20]) (./Dynamic_Programing/Bounded_Knapsack.cpp
+[21]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
+(./Dynamic_Programing/Kadane_2D.cpp)
 
-[21]) (./Dynamic_Programing/Kadane_2D.cpp) (./Dynamic_Programing/Kadane_3D.cpp
+[22] (./Dynamic_Programing/Kadane_3D.cpp) (./Dynamic_Programing/SOS_DP.cpp)
+(./Dynamic_Programing/fastfibo.cpp
 
-[22]) (./Dynamic_Programing/SOS_DP.cpp) (./Dynamic_Programing/fastfibo.cpp)
+[23]) (./Flow/Dinic.cpp
 
-[23] (./Flow/Dinic.cpp)
+[24]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
 
-[24] (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp)
+[25]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Tree Algorithms/Euler_Tour.cpp
 
-[25] (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
-(./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp
+[26]) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
 
-[26]) (./Tree Algorithms/Centroid_Decomposition.cpp
+[27]
 
-[27]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp
+[28]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Prime Numbers.cpp
 
-[28]) (./Utilities/Prime Numbers.cpp) (./Utilities/ASCII TABLE.cpp
-
-[29]) (./Utilities/Int128.cpp
+[29]) (./Utilities/ASCII TABLE.cpp) (./Utilities/Int128.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -593,6 +597,9 @@ Type  H <return>  for immediate help.
 l.1 // --- LECTURA B√ÅSICA 
                            ---
 ? 
+
+
+[30]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -633,26 +640,26 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESI√ìN B√ÅSICA 
                                ---
 ? 
-) (./Utilities/Merge_Sort.cpp
+) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp
 
-[30]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Priority Queue Min Heap.cpp
-) (./Utilities/Random.cpp
+[31]) (./Utilities/Priority Queue Min Heap.cpp) (./Utilities/Random.cpp)
+(./Utilities/plantilla_python.cpp
 
-[31]) (./Utilities/plantilla_python.cpp) (./Utilities/pragma.cpp)
+[32]) (./Utilities/pragma.cpp)
 
-[32] (./teambook.aux)
+[33] (./teambook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: BCBF71F52785932DC5A722B307D3AC6E;8569.
+(rerunfilecheck)             Checksum: 4147BBE00D991C759BD92C0B075C94F4;8676.
  ) 
 Here is how much of TeX's memory you used:
- 15653 strings out of 475178
- 238565 string characters out of 5766539
- 1560571 words of memory out of 5000000
- 35826 multiletter control sequences out of 15000+600000
+ 15709 strings out of 475178
+ 239466 string characters out of 5766539
+ 1481571 words of memory out of 5000000
+ 35842 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,13n,83p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -666,10 +673,10 @@ knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (35 pages, 385585 bytes).
+Output written on teambook.pdf (36 pages, 390450 bytes).
 PDF statistics:
- 3892 PDF objects out of 4296 (max. 8388607)
- 3425 compressed objects within 35 object streams
- 2532 named destinations out of 2984 (max. 500000)
- 537 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3947 PDF objects out of 4296 (max. 8388607)
+ 3476 compressed objects within 35 object streams
+ 2569 named destinations out of 2984 (max. 500000)
+ 545 words of extra memory for PDF output out of 10000 (max. 10000000)
 
