@@ -22,3 +22,6 @@ struct BIT{
         return sum(r) - sum(l - 1);
     }
 };
+// Para actulizar en rango y consultas puntuales
+// bit.add(l,val); bit.add(r+1,val);
+// bit.query(1,pos)

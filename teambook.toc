@@ -44,10 +44,10 @@
 \contentsline {subsection}{\numberline {6.3}{Kadane 3D}}{22}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}{SOS DP}}{23}{subsection.6.4}%
 \contentsline {subsection}{\numberline {6.5}{Fastfibo}}{23}{subsection.6.5}%
-\contentsline {section}{\numberline {7}Flow}{23}{section.7}%
-\contentsline {subsection}{\numberline {7.1}{Dinic}}{23}{subsection.7.1}%
+\contentsline {section}{\numberline {7}Flow}{24}{section.7}%
+\contentsline {subsection}{\numberline {7.1}{Dinic}}{24}{subsection.7.1}%
 \contentsline {section}{\numberline {8}Graph Algorithms}{24}{section.8}%
-\contentsline {subsection}{\numberline {8.1}{Dijkstra}}{24}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.1}{Dijkstra}}{25}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}{Kruskal MST}}{25}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}{Topological Sort Kahn Algorithm}}{26}{subsection.8.3}%
 \contentsline {section}{\numberline {9}Tree Algorithms}{26}{section.9}%

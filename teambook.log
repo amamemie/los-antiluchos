@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  26 AUG 2026 12:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  26 AUG 2026 20:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -555,15 +555,13 @@ l.23 // query(1, 4) →
 
 [20]) (./Dynamic_Programing/Bounded_Knapsack.cpp
 
-[21]) (./Dynamic_Programing/Kadane_2D.cpp) (./Dynamic_Programing/Kadane_3D.cpp)
+[21]) (./Dynamic_Programing/Kadane_2D.cpp) (./Dynamic_Programing/Kadane_3D.cpp
 
+[22]) (./Dynamic_Programing/SOS_DP.cpp) (./Dynamic_Programing/fastfibo.cpp)
 
-[22] (./Dynamic_Programing/SOS_DP.cpp) (./Dynamic_Programing/fastfibo.cpp)
-(./Flow/Dinic.cpp
+[23] (./Flow/Dinic.cpp)
 
-[23]) (./Graph Algorithms/Dijkstra.cpp
-
-[24]) (./Graph Algorithms/Kruskal_MST.cpp)
+[24] (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp)
 
 [25] (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
 (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp
@@ -638,9 +636,9 @@ l.21 // --- IMPRESIÓN BÁSICA
 ) (./Utilities/Merge_Sort.cpp
 
 [30]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Priority Queue Min Heap.cpp
-) (./Utilities/Random.cpp)
+) (./Utilities/Random.cpp
 
-[31] (./Utilities/plantilla_python.cpp) (./Utilities/pragma.cpp)
+[31]) (./Utilities/plantilla_python.cpp) (./Utilities/pragma.cpp)
 
 [32] (./teambook.aux)
  ***********
@@ -651,27 +649,27 @@ Package rerunfilecheck Info: File `teambook.out' has not changed.
 (rerunfilecheck)             Checksum: BCBF71F52785932DC5A722B307D3AC6E;8569.
  ) 
 Here is how much of TeX's memory you used:
- 15650 strings out of 475178
- 238517 string characters out of 5766539
- 1556571 words of memory out of 5000000
+ 15653 strings out of 475178
+ 238565 string characters out of 5766539
+ 1560571 words of memory out of 5000000
  35826 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,79p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
-525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
-800.525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-crm0500.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
-ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
+ 75i,13n,83p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
+525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
+800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm0500.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
+ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (35 pages, 385643 bytes).
+Output written on teambook.pdf (35 pages, 385585 bytes).
 PDF statistics:
  3892 PDF objects out of 4296 (max. 8388607)
- 3422 compressed objects within 35 object streams
- 2529 named destinations out of 2984 (max. 500000)
+ 3425 compressed objects within 35 object streams
+ 2532 named destinations out of 2984 (max. 500000)
  537 words of extra memory for PDF output out of 10000 (max. 10000000)
 
