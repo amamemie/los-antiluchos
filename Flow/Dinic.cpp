@@ -24,8 +24,8 @@ struct Dinic
     void addEdge(int st, int en , int cap){
         flowEdge A = {en, (int)G[en].size(), 0, cap};
         flowEdge B = {st, (int)G[st].size(), 0, 0};
-        G[st].pb(A);
-        G[en].pb(B);
+        G[st].push_back(A);
+        G[en].push_back(B);
     }
     int dfs(int v, int f){
         if(v == T or f == 0) return f;
