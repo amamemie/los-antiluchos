@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  4 SEP 2026 12:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  4 SEP 2026 12:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,9 +592,10 @@ l.100 ...eldas pertenecientes a alguna aparición.
 [18]) (./Data Structures/Bit_2D.cpp)
 (./Data Structures/Bit_2D_Infinite_Plane.cpp
 
-[19]) (./Data Structures/Bit_3D.cpp
+[19])
 
-[20]) (./Data Structures/DSU_Dynamic_Representative.cpp)
+[20] (./Data Structures/Bit_3D.cpp)
+(./Data Structures/DSU_Dynamic_Representative.cpp)
 (./Data Structures/Disjoint_Set_Union.cpp
 
 [21]) (./Data Structures/Dynamic_Connectivity_Offline.cpp
@@ -629,9 +630,9 @@ l.23 // query(1, 4) →
 ) (./Data Structures/Treap.cpp
 
 [26]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
-(./Dynamic_Programing/Kadane_2D.cpp)
+(./Dynamic_Programing/Kadane_2D.cpp
 
-[27] (./Dynamic_Programing/Kadane_3D.cpp) (./Dynamic_Programing/SOS_DP.cpp)
+[27]) (./Dynamic_Programing/Kadane_3D.cpp) (./Dynamic_Programing/SOS_DP.cpp)
 (./Dynamic_Programing/fastfibo.cpp
 
 [28]) (./Flow/Dinic.cpp
@@ -717,12 +718,13 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESIÓN BÁSICA 
                                ---
 ? 
-) (./Utilities/Merge_Sort.cpp
+)
 
-[39]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Priority Queue Min Heap.cpp
-) (./Utilities/Random.cpp
+[39] (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp)
+(./Utilities/Priority Queue Min Heap.cpp)
 
-[40]) (./Utilities/plantilla_python.cpp) (./Utilities/pragma.cpp)
+[40] (./Utilities/Random.cpp) (./Utilities/plantilla_python.cpp)
+(./Utilities/pragma.cpp)
 
 [41] (./teambook.aux)
  ***********
@@ -733,9 +735,9 @@ Package rerunfilecheck Info: File `teambook.out' has not changed.
 (rerunfilecheck)             Checksum: 845AEDACDC90BF323D1BCF3A53771910;10021.
  ) 
 Here is how much of TeX's memory you used:
- 16617 strings out of 475178
- 254359 string characters out of 5766539
- 1562571 words of memory out of 5000000
+ 16621 strings out of 475178
+ 254423 string characters out of 5766539
+ 1532571 words of memory out of 5000000
  36007 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -750,10 +752,10 @@ knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (44 pages, 463608 bytes).
+Output written on teambook.pdf (44 pages, 463823 bytes).
 PDF statistics:
- 4882 PDF objects out of 5155 (max. 8388607)
- 4392 compressed objects within 44 object streams
- 3282 named destinations out of 3580 (max. 500000)
+ 4887 PDF objects out of 5155 (max. 8388607)
+ 4397 compressed objects within 44 object streams
+ 3286 named destinations out of 3580 (max. 500000)
  625 words of extra memory for PDF output out of 10000 (max. 10000000)
 
