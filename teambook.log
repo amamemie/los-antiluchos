@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  2 SEP 2026 16:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  4 SEP 2026 12:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -584,25 +584,28 @@ l.100 ...eldas pertenecientes a alguna aparici√≥n.
 [15]) (./Bit_Manipulation/Turn off a bit at position x.cpp)
 (./Bit_Manipulation/Xor_Basis.cpp) (./Data Structures/Segment_Tree.cpp
 
-[16]) (./Data Structures/Segment_Tree_Lazy_Propagation.cpp
+[16]) (./Data Structures/Segment_Tree_Iterativo.cpp)
+(./Data Structures/Segment_Tree_Lazy_Propagation.cpp
 
-[17]) (./Data Structures/Bit_1D.cpp) (./Data Structures/Bit_2D.cpp
+[17]) (./Data Structures/Bit_1D.cpp
 
-[18]) (./Data Structures/Bit_2D_Infinite_Plane.cpp
+[18]) (./Data Structures/Bit_2D.cpp)
+(./Data Structures/Bit_2D_Infinite_Plane.cpp
 
-[19]) (./Data Structures/Bit_3D.cpp)
+[19]) (./Data Structures/Bit_3D.cpp
 
-[20] (./Data Structures/DSU_Dynamic_Representative.cpp)
-(./Data Structures/Disjoint_Set_Union.cpp)
-(./Data Structures/Dynamic_Connectivity_Offline.cpp
+[20]) (./Data Structures/DSU_Dynamic_Representative.cpp)
+(./Data Structures/Disjoint_Set_Union.cpp
 
-[21]
+[21]) (./Data Structures/Dynamic_Connectivity_Offline.cpp
 
 [22]) (./Data Structures/Implicit_Treap.cpp
 
-[23]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Range_Bit.cpp
+[23]) (./Data Structures/Ordered_Set.cpp
 
-[24]) (./Data Structures/Sparse_Table.cpp
+[24]) (./Data Structures/Range_Bit.cpp) (./Data Structures/Sparse_Table.cpp
+
+[25]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÜ).
 
@@ -625,35 +628,35 @@ l.23 // query(1, 4) ‚Üí
 ? 
 ) (./Data Structures/Treap.cpp
 
-[25]) (./Dynamic_Programing/Bounded_Knapsack.cpp
+[26]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
+(./Dynamic_Programing/Kadane_2D.cpp)
 
-[26]) (./Dynamic_Programing/Kadane_2D.cpp) (./Dynamic_Programing/Kadane_3D.cpp
+[27] (./Dynamic_Programing/Kadane_3D.cpp) (./Dynamic_Programing/SOS_DP.cpp)
+(./Dynamic_Programing/fastfibo.cpp
 
-[27]) (./Dynamic_Programing/SOS_DP.cpp) (./Dynamic_Programing/fastfibo.cpp)
+[28]) (./Flow/Dinic.cpp
 
-[28] (./Flow/Dinic.cpp)
-
-[29] (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[29]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
 
 [30]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
 (./Graph Algorithms/Kosaraju.cpp
 
 [31]) (./Graph Algorithms/Kuhn.cpp) (./Graph Algorithms/2SAT.cpp
 
-[32]) (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp
+[32]) (./Tree Algorithms/Euler_Tour.cpp
 
-[33]) (./Tree Algorithms/Centroid_Decomposition.cpp
+[33]) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
 
-[34]) (./Tree Algorithms/HLD.cpp
+[34]
 
-[35]
+[35]) (./Tree Algorithms/HLD.cpp
 
-[36]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
-(./Utilities/Prime Numbers.cpp
+[36]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp
 
-[37]) (./Utilities/ASCII TABLE.cpp)
+[37]) (./Utilities/Prime Numbers.cpp) (./Utilities/ASCII TABLE.cpp
 
-[38] (./Utilities/Int128.cpp
+[38]) (./Utilities/Int128.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -714,12 +717,12 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESI√ìN B√ÅSICA 
                                ---
 ? 
-) (./Utilities/Merge_Sort.cpp)
+) (./Utilities/Merge_Sort.cpp
 
-[39] (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Priority Queue Min Heap.cpp)
-(./Utilities/Random.cpp) (./Utilities/plantilla_python.cpp
+[39]) (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Priority Queue Min Heap.cpp
+) (./Utilities/Random.cpp
 
-[40]) (./Utilities/pragma.cpp)
+[40]) (./Utilities/plantilla_python.cpp) (./Utilities/pragma.cpp)
 
 [41] (./teambook.aux)
  ***********
@@ -727,16 +730,16 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 52779C88954AD7311494C09CF9FA2F7E;9846.
+(rerunfilecheck)             Checksum: 845AEDACDC90BF323D1BCF3A53771910;10021.
  ) 
 Here is how much of TeX's memory you used:
- 16577 strings out of 475178
- 253559 string characters out of 5766539
- 1578571 words of memory out of 5000000
- 36003 multiletter control sequences out of 15000+600000
+ 16617 strings out of 475178
+ 254359 string characters out of 5766539
+ 1562571 words of memory out of 5000000
+ 36007 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,86p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,83p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
 525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
 800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
@@ -747,10 +750,10 @@ knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (44 pages, 459929 bytes).
+Output written on teambook.pdf (44 pages, 463608 bytes).
 PDF statistics:
- 4839 PDF objects out of 5155 (max. 8388607)
- 4349 compressed objects within 44 object streams
- 3249 named destinations out of 3580 (max. 500000)
- 617 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4882 PDF objects out of 5155 (max. 8388607)
+ 4392 compressed objects within 44 object streams
+ 3282 named destinations out of 3580 (max. 500000)
+ 625 words of extra memory for PDF output out of 10000 (max. 10000000)
 

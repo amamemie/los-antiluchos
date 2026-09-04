@@ -31,23 +31,24 @@
 \contentsline {subsection}{\numberline {4.5}{Xor Basis}}{16}{subsection.4.5}%
 \contentsline {section}{\numberline {5}Data Structures}{16}{section.5}%
 \contentsline {subsection}{\numberline {5.1}{Segment Tree}}{16}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}{Segment Tree Lazy Propagation}}{17}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}{Bit 1D}}{18}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}{Bit 2D}}{18}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}{Bit 2D Infinite Plane}}{19}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}{Bit 3D}}{20}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7}{DSU Dynamic Representative}}{21}{subsection.5.7}%
-\contentsline {subsection}{\numberline {5.8}{Disjoint Set Union}}{21}{subsection.5.8}%
-\contentsline {subsection}{\numberline {5.9}{Dynamic Connectivity Offline}}{21}{subsection.5.9}%
-\contentsline {subsection}{\numberline {5.10}{Implicit Treap}}{23}{subsection.5.10}%
-\contentsline {subsection}{\numberline {5.11}{Ordered Set}}{24}{subsection.5.11}%
-\contentsline {subsection}{\numberline {5.12}{Range Bit}}{24}{subsection.5.12}%
-\contentsline {subsection}{\numberline {5.13}{Sparse Table}}{25}{subsection.5.13}%
-\contentsline {subsection}{\numberline {5.14}{Treap}}{25}{subsection.5.14}%
-\contentsline {section}{\numberline {6}Dynamic Programing}{26}{section.6}%
-\contentsline {subsection}{\numberline {6.1}{Bounded Knapsack}}{26}{subsection.6.1}%
+\contentsline {subsection}{\numberline {5.2}{Segment Tree Iterativo}}{17}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}{Segment Tree Lazy Propagation}}{17}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}{Bit 1D}}{18}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}{Bit 2D}}{19}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}{Bit 2D Infinite Plane}}{19}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}{Bit 3D}}{20}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}{DSU Dynamic Representative}}{21}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}{Disjoint Set Union}}{21}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}{Dynamic Connectivity Offline}}{22}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5.11}{Implicit Treap}}{23}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5.12}{Ordered Set}}{24}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5.13}{Range Bit}}{25}{subsection.5.13}%
+\contentsline {subsection}{\numberline {5.14}{Sparse Table}}{25}{subsection.5.14}%
+\contentsline {subsection}{\numberline {5.15}{Treap}}{26}{subsection.5.15}%
+\contentsline {section}{\numberline {6}Dynamic Programing}{27}{section.6}%
+\contentsline {subsection}{\numberline {6.1}{Bounded Knapsack}}{27}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}{Kadane 2D}}{27}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}{Kadane 3D}}{27}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.3}{Kadane 3D}}{28}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}{SOS DP}}{28}{subsection.6.4}%
 \contentsline {subsection}{\numberline {6.5}{Fastfibo}}{28}{subsection.6.5}%
 \contentsline {section}{\numberline {7}Flow}{29}{section.7}%
@@ -61,17 +62,17 @@
 \contentsline {subsection}{\numberline {8.6}{2SAT}}{32}{subsection.8.6}%
 \contentsline {section}{\numberline {9}Tree Algorithms}{33}{section.9}%
 \contentsline {subsection}{\numberline {9.1}{Euler Tour}}{33}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}{Binary Lifting}}{33}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.2}{Binary Lifting}}{34}{subsection.9.2}%
 \contentsline {subsection}{\numberline {9.3}{Centroid Decomposition}}{34}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}{HLD}}{35}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.4}{HLD}}{36}{subsection.9.4}%
 \contentsline {subsection}{\numberline {9.5}{Lowest Common Ancestor}}{37}{subsection.9.5}%
-\contentsline {section}{\numberline {10}Utilities}{37}{section.10}%
-\contentsline {subsection}{\numberline {10.1}{Prime Numbers}}{37}{subsection.10.1}%
+\contentsline {section}{\numberline {10}Utilities}{38}{section.10}%
+\contentsline {subsection}{\numberline {10.1}{Prime Numbers}}{38}{subsection.10.1}%
 \contentsline {subsection}{\numberline {10.2}{ASCII TABLE}}{38}{subsection.10.2}%
 \contentsline {subsection}{\numberline {10.3}{Int128}}{39}{subsection.10.3}%
 \contentsline {subsection}{\numberline {10.4}{Merge Sort}}{39}{subsection.10.4}%
 \contentsline {subsection}{\numberline {10.5}{Preffix Sum 2D}}{40}{subsection.10.5}%
 \contentsline {subsection}{\numberline {10.6}{Priority Queue Min Heap}}{40}{subsection.10.6}%
 \contentsline {subsection}{\numberline {10.7}{Random}}{40}{subsection.10.7}%
-\contentsline {subsection}{\numberline {10.8}{Plantilla Python}}{40}{subsection.10.8}%
+\contentsline {subsection}{\numberline {10.8}{Plantilla Python}}{41}{subsection.10.8}%
 \contentsline {subsection}{\numberline {10.9}{Pragma}}{41}{subsection.10.9}%
