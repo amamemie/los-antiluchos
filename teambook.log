@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  4 SEP 2026 12:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  8 SEP 2026 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -471,13 +471,14 @@ l.40 // x ‚â°
 [2] (./Math/Fibonacci Log(N).cpp) (./Math/Least Common Multiple.cpp)
 (./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
 
-[3]) (./Geometry/Convex_Hull.cpp
+[3]) (./Geometry/Canonocal_Line_and_Perpendicular_Line.cpp
 
-[4]) (./Geometry/Point.cpp) (./Geometry/closest_pair_of_points_lineal.cpp
+[4]) (./Geometry/Convex_Hull.cpp) (./Geometry/Point.cpp)
+(./Geometry/closest_pair_of_points_lineal.cpp
 
-[5]) (./Geometry/closest_pair_of_points_nlogn.cpp
+[5]
 
-[6]
+[6]) (./Geometry/closest_pair_of_points_nlogn.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -498,17 +499,19 @@ Type  H <return>  for immediate help.
 l.27         // sacar puntos que ya est√°n 
                                            demasiado lejos en x
 ? 
-) (./Strings/KMP.cpp
 
-[7]) (./Strings/Z_Function.cpp) (./Strings/Trie.cpp
 
-[8]) (./Strings/Suffix_Array.cpp
+[7]) (./Strings/KMP.cpp) (./Strings/Z_Function.cpp)
+
+[8] (./Strings/Trie.cpp) (./Strings/Suffix_Array.cpp
 
 [9]) (./Strings/Aho_Corasick.cpp
 
 [10]
 
-[11]) (./Strings/Booths Algorithm.cpp
+[11])
+
+[12] (./Strings/Booths Algorithm.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -529,9 +532,7 @@ Type  H <return>  for immediate help.
 l.1 ...goritmo para menor rotacion lexicograf√≠ca 
                                                   de un string en O(N)
 ? 
-
-
-[12]) (./Strings/Hashing 2D.cpp
+) (./Strings/Hashing 2D.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -577,36 +578,36 @@ l.100 ...eldas pertenecientes a alguna aparici√≥n.
 ? 
 ) (./Strings/Hashing.cpp
 
-[14]) (./Strings/Manacher.cpp) (./Bit_Manipulation/Binary_Representation.cpp)
-(./Bit_Manipulation/Bit_Mask.cpp)
-(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp
+[14]) (./Strings/Manacher.cpp) (./Bit_Manipulation/Binary_Representation.cpp
 
-[15]) (./Bit_Manipulation/Turn off a bit at position x.cpp)
-(./Bit_Manipulation/Xor_Basis.cpp) (./Data Structures/Segment_Tree.cpp
+[15]) (./Bit_Manipulation/Bit_Mask.cpp)
+(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp)
+(./Bit_Manipulation/Turn off a bit at position x.cpp)
+(./Bit_Manipulation/Xor_Basis.cpp)
 
-[16]) (./Data Structures/Segment_Tree_Iterativo.cpp)
-(./Data Structures/Segment_Tree_Lazy_Propagation.cpp
+[16] (./Data Structures/Segment_Tree.cpp)
+(./Data Structures/Segment_Tree_Iterativo.cpp
 
-[17]) (./Data Structures/Bit_1D.cpp
+[17]) (./Data Structures/Segment_Tree_Lazy_Propagation.cpp
 
-[18]) (./Data Structures/Bit_2D.cpp)
+[18]) (./Data Structures/Bit_1D.cpp) (./Data Structures/Bit_2D.cpp)
 (./Data Structures/Bit_2D_Infinite_Plane.cpp
 
-[19])
+[19]
 
-[20] (./Data Structures/Bit_3D.cpp)
-(./Data Structures/DSU_Dynamic_Representative.cpp)
-(./Data Structures/Disjoint_Set_Union.cpp
+[20]) (./Data Structures/Bit_3D.cpp)
+(./Data Structures/DSU_Dynamic_Representative.cpp
 
-[21]) (./Data Structures/Dynamic_Connectivity_Offline.cpp
+[21]) (./Data Structures/Disjoint_Set_Union.cpp)
+(./Data Structures/Dynamic_Connectivity_Offline.cpp
 
-[22]) (./Data Structures/Implicit_Treap.cpp
+[22]
 
-[23]) (./Data Structures/Ordered_Set.cpp
+[23]) (./Data Structures/Implicit_Treap.cpp
 
-[24]) (./Data Structures/Range_Bit.cpp) (./Data Structures/Sparse_Table.cpp
+[24]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Range_Bit.cpp
 
-[25]
+[25]) (./Data Structures/Sparse_Table.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÜ).
 
@@ -629,35 +630,35 @@ l.23 // query(1, 4) ‚Üí
 ? 
 ) (./Data Structures/Treap.cpp
 
-[26]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
-(./Dynamic_Programing/Kadane_2D.cpp
+[26]) (./Dynamic_Programing/Bounded_Knapsack.cpp
 
-[27]) (./Dynamic_Programing/Kadane_3D.cpp) (./Dynamic_Programing/SOS_DP.cpp)
-(./Dynamic_Programing/fastfibo.cpp
+[27]) (./Dynamic_Programing/Kadane_2D.cpp) (./Dynamic_Programing/Kadane_3D.cpp)
 
-[28]) (./Flow/Dinic.cpp
 
-[29]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
+[28] (./Dynamic_Programing/SOS_DP.cpp) (./Dynamic_Programing/fastfibo.cpp)
+(./Flow/Dinic.cpp
 
-[30]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
-(./Graph Algorithms/Kosaraju.cpp
+[29]) (./Graph Algorithms/Dijkstra.cpp
 
-[31]) (./Graph Algorithms/Kuhn.cpp) (./Graph Algorithms/2SAT.cpp
+[30]) (./Graph Algorithms/Kruskal_MST.cpp)
 
-[32]) (./Tree Algorithms/Euler_Tour.cpp
+[31] (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Graph Algorithms/Kosaraju.cpp)
 
-[33]) (./Tree Algorithms/Binary_Lifting.cpp)
-(./Tree Algorithms/Centroid_Decomposition.cpp
+[32] (./Graph Algorithms/Kuhn.cpp) (./Graph Algorithms/2SAT.cpp
 
-[34]
+[33]) (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp
+
+[34]) (./Tree Algorithms/Centroid_Decomposition.cpp
 
 [35]) (./Tree Algorithms/HLD.cpp
 
-[36]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp
+[36]
 
-[37]) (./Utilities/Prime Numbers.cpp) (./Utilities/ASCII TABLE.cpp
+[37]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Prime Numbers.cpp
 
-[38]) (./Utilities/Int128.cpp
+[38]) (./Utilities/ASCII TABLE.cpp) (./Utilities/Int128.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -678,6 +679,9 @@ Type  H <return>  for immediate help.
 l.1 // --- LECTURA B√ÅSICA 
                            ---
 ? 
+
+
+[39]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -718,30 +722,29 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESI√ìN B√ÅSICA 
                                ---
 ? 
-)
+) (./Utilities/Merge_Sort.cpp)
 
-[39] (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp)
-(./Utilities/Priority Queue Min Heap.cpp)
+[40] (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Priority Queue Min Heap.cpp)
+(./Utilities/Random.cpp) (./Utilities/plantilla_python.cpp
 
-[40] (./Utilities/Random.cpp) (./Utilities/plantilla_python.cpp)
-(./Utilities/pragma.cpp)
+[41]) (./Utilities/pragma.cpp)
 
-[41] (./teambook.aux)
+[42] (./teambook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 845AEDACDC90BF323D1BCF3A53771910;10021.
+(rerunfilecheck)             Checksum: A9B30EEA79680719857B23469A3D124C;10276.
  ) 
 Here is how much of TeX's memory you used:
- 16621 strings out of 475178
- 254423 string characters out of 5766539
- 1532571 words of memory out of 5000000
- 36007 multiletter control sequences out of 15000+600000
+ 16680 strings out of 475178
+ 255399 string characters out of 5766539
+ 1518571 words of memory out of 5000000
+ 36033 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,83p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,86p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
 525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
 800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
@@ -752,10 +755,10 @@ knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (44 pages, 463823 bytes).
+Output written on teambook.pdf (45 pages, 467792 bytes).
 PDF statistics:
- 4887 PDF objects out of 5155 (max. 8388607)
- 4397 compressed objects within 44 object streams
- 3286 named destinations out of 3580 (max. 500000)
- 625 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4931 PDF objects out of 5155 (max. 8388607)
+ 4439 compressed objects within 45 object streams
+ 3316 named destinations out of 3580 (max. 500000)
+ 633 words of extra memory for PDF output out of 10000 (max. 10000000)
 
