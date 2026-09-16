@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  8 SEP 2026 23:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.7.16)  16 SEP 2026 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -471,7 +471,7 @@ l.40 // x ≡
 [2] (./Math/Fibonacci Log(N).cpp) (./Math/Least Common Multiple.cpp)
 (./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
 
-[3]) (./Geometry/Canonocal_Line_and_Perpendicular_Line.cpp
+[3]) (./Geometry/Canonical_Line_and_Perpendicular_Line.cpp
 
 [4]) (./Geometry/Convex_Hull.cpp) (./Geometry/Point.cpp)
 (./Geometry/closest_pair_of_points_lineal.cpp
@@ -635,30 +635,53 @@ l.23 // query(1, 4) →
 [27]) (./Dynamic_Programing/Kadane_2D.cpp) (./Dynamic_Programing/Kadane_3D.cpp)
 
 
-[28] (./Dynamic_Programing/SOS_DP.cpp) (./Dynamic_Programing/fastfibo.cpp)
-(./Flow/Dinic.cpp
+[28] (./Dynamic_Programing/Longest Increasing Subsquence LIS.cpp)
+(./Dynamic_Programing/SOS_DP.cpp) (./Dynamic_Programing/fastfibo.cpp
 
-[29]) (./Graph Algorithms/Dijkstra.cpp
+[29]) (./Flow/Dinic.cpp
 
-[30]) (./Graph Algorithms/Kruskal_MST.cpp)
+[30]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_MST.cpp
 
-[31] (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
-(./Graph Algorithms/Kosaraju.cpp)
+[31]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Graph Algorithms/Kosaraju.cpp
 
-[32] (./Graph Algorithms/Kuhn.cpp) (./Graph Algorithms/2SAT.cpp
+[32]) (./Graph Algorithms/Bridges.cpp
 
-[33]) (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp
+! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
 
-[34]) (./Tree Algorithms/Centroid_Decomposition.cpp
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22             // El subárbol 
+                                 de v puede llegar hasta...
+? 
 
-[35]) (./Tree Algorithms/HLD.cpp
+! LaTeX Error: Invalid UTF-8 byte "A1.
 
-[36]
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22             // El subárbol 
+                                 de v puede llegar hasta...
+? 
+) (./Graph Algorithms/Kuhn.cpp) (./Graph Algorithms/2SAT.cpp
 
-[37]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
-(./Utilities/Prime Numbers.cpp
+[33])
 
-[38]) (./Utilities/ASCII TABLE.cpp) (./Utilities/Int128.cpp
+[34] (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
+
+[35]
+
+[36]) (./Tree Algorithms/HLD.cpp
+
+[37]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp
+
+[38]) (./Utilities/Prime Numbers.cpp) (./Utilities/ASCII TABLE.cpp
+
+[39]) (./Utilities/Int128.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
 
@@ -679,9 +702,6 @@ Type  H <return>  for immediate help.
 l.1 // --- LECTURA BÁSICA 
                            ---
 ? 
-
-
-[39]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
 
@@ -722,12 +742,12 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESIÓN BÁSICA 
                                ---
 ? 
-) (./Utilities/Merge_Sort.cpp)
 
-[40] (./Utilities/Preffix_Sum_2D.cpp) (./Utilities/Priority Queue Min Heap.cpp)
-(./Utilities/Random.cpp) (./Utilities/plantilla_python.cpp
 
-[41]) (./Utilities/pragma.cpp)
+[40]) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp)
+
+[41] (./Utilities/Priority Queue Min Heap.cpp) (./Utilities/Random.cpp)
+(./Utilities/plantilla_python.cpp) (./Utilities/pragma.cpp)
 
 [42] (./teambook.aux)
  ***********
@@ -735,30 +755,30 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: A9B30EEA79680719857B23469A3D124C;10276.
+(rerunfilecheck)             Checksum: 64DA15487238919F4E2E6F88C52402AC;10601.
  ) 
 Here is how much of TeX's memory you used:
- 16680 strings out of 475178
- 255399 string characters out of 5766539
- 1518571 words of memory out of 5000000
- 36033 multiletter control sequences out of 15000+600000
+ 16748 strings out of 475178
+ 256785 string characters out of 5766539
+ 1523571 words of memory out of 5000000
+ 36045 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,13n,86p,378b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
-525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
-800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-crm0500.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecrm1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
-ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
+ </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
+525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
+800.525pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm0500.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecrm1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecbx1000.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecbx1440.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts/pk/
+ljfour/jknappen/ec/eccc0900.600pk> </home/pyroxboy/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (45 pages, 467792 bytes).
+Output written on teambook.pdf (45 pages, 473489 bytes).
 PDF statistics:
- 4931 PDF objects out of 5155 (max. 8388607)
- 4439 compressed objects within 45 object streams
- 3316 named destinations out of 3580 (max. 500000)
- 633 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5001 PDF objects out of 5155 (max. 8388607)
+ 4506 compressed objects within 46 object streams
+ 3366 named destinations out of 3580 (max. 500000)
+ 649 words of extra memory for PDF output out of 10000 (max. 10000000)
 

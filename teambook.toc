@@ -9,7 +9,7 @@
 \contentsline {subsection}{\numberline {1.8}{Modular Inverse}}{3}{subsection.1.8}%
 \contentsline {subsection}{\numberline {1.9}{Pollard Rho Rabin Miller}}{3}{subsection.1.9}%
 \contentsline {section}{\numberline {2}Geometry}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1}{Canonocal Line and Perpendicular Line}}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.1}{Canonical Line and Perpendicular Line}}{4}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}{Convex Hull}}{5}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}{Point}}{5}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}{Closest Pair of Points Lineal}}{5}{subsection.2.4}%
@@ -50,30 +50,32 @@
 \contentsline {subsection}{\numberline {6.1}{Bounded Knapsack}}{27}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}{Kadane 2D}}{28}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}{Kadane 3D}}{28}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}{SOS DP}}{29}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}{Fastfibo}}{29}{subsection.6.5}%
-\contentsline {section}{\numberline {7}Flow}{29}{section.7}%
-\contentsline {subsection}{\numberline {7.1}{Dinic}}{29}{subsection.7.1}%
-\contentsline {section}{\numberline {8}Graph Algorithms}{30}{section.8}%
-\contentsline {subsection}{\numberline {8.1}{Dijkstra}}{30}{subsection.8.1}%
+\contentsline {subsection}{\numberline {6.4}{Longest Increasing Subsquence LIS}}{29}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}{SOS DP}}{29}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}{Fastfibo}}{29}{subsection.6.6}%
+\contentsline {section}{\numberline {7}Flow}{30}{section.7}%
+\contentsline {subsection}{\numberline {7.1}{Dinic}}{30}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Graph Algorithms}{31}{section.8}%
+\contentsline {subsection}{\numberline {8.1}{Dijkstra}}{31}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}{Kruskal MST}}{31}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}{Topological Sort Kahn Algorithm}}{32}{subsection.8.3}%
 \contentsline {subsection}{\numberline {8.4}{Kosaraju}}{32}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}{Kuhn}}{33}{subsection.8.5}%
-\contentsline {subsection}{\numberline {8.6}{2SAT}}{33}{subsection.8.6}%
-\contentsline {section}{\numberline {9}Tree Algorithms}{34}{section.9}%
-\contentsline {subsection}{\numberline {9.1}{Euler Tour}}{34}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}{Binary Lifting}}{34}{subsection.9.2}%
+\contentsline {subsection}{\numberline {8.5}{Bridges}}{33}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}{Kuhn}}{33}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}{2SAT}}{34}{subsection.8.7}%
+\contentsline {section}{\numberline {9}Tree Algorithms}{35}{section.9}%
+\contentsline {subsection}{\numberline {9.1}{Euler Tour}}{35}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}{Binary Lifting}}{35}{subsection.9.2}%
 \contentsline {subsection}{\numberline {9.3}{Centroid Decomposition}}{35}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}{HLD}}{36}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.4}{HLD}}{37}{subsection.9.4}%
 \contentsline {subsection}{\numberline {9.5}{Lowest Common Ancestor}}{38}{subsection.9.5}%
-\contentsline {section}{\numberline {10}Utilities}{38}{section.10}%
-\contentsline {subsection}{\numberline {10.1}{Prime Numbers}}{38}{subsection.10.1}%
+\contentsline {section}{\numberline {10}Utilities}{39}{section.10}%
+\contentsline {subsection}{\numberline {10.1}{Prime Numbers}}{39}{subsection.10.1}%
 \contentsline {subsection}{\numberline {10.2}{ASCII TABLE}}{39}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}{Int128}}{39}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}{Merge Sort}}{40}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.3}{Int128}}{40}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}{Merge Sort}}{41}{subsection.10.4}%
 \contentsline {subsection}{\numberline {10.5}{Preffix Sum 2D}}{41}{subsection.10.5}%
-\contentsline {subsection}{\numberline {10.6}{Priority Queue Min Heap}}{41}{subsection.10.6}%
-\contentsline {subsection}{\numberline {10.7}{Random}}{41}{subsection.10.7}%
-\contentsline {subsection}{\numberline {10.8}{Plantilla Python}}{41}{subsection.10.8}%
+\contentsline {subsection}{\numberline {10.6}{Priority Queue Min Heap}}{42}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}{Random}}{42}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}{Plantilla Python}}{42}{subsection.10.8}%
 \contentsline {subsection}{\numberline {10.9}{Pragma}}{42}{subsection.10.9}%
