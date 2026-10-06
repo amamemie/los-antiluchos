@@ -1,3 +1,4 @@
+//cantidad de coprimos con respecto a n
 ll phi(ll n) {
     ll ans = n;
     for (ll p = 2; p * p <= n; p++) {
