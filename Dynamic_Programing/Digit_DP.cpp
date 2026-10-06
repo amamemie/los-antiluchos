@@ -1,14 +1,5 @@
 //Counting Numbers CSES
-//PyroxBoy
-#include <bits/stdc++.h>
-#define repl(i,a,b) for(int i = a; i < b; i++)
-#define ll long long
-#define dbg(x) cout << #x << " " << x <<endl
-#define dbg2(x, y) cout << #x <<" "<< #y << " " << x << " "<<y <<  endl
-#define velocito ios_base::sync_with_stdio(false); cin.tie(NULL)
-#define print(v) for(auto x:v){cout << x << " ";} cout << "\n"
-using namespace std;
- 
+//PyroxBoy 
 ll dp[20][11][2][2];
 //pos, last, tight, started for leading zeroes
  
@@ -62,16 +53,6 @@ void solve(){
     f(0, 10, 1, 0);
     ll ans = reco(b) - reco(a-1);
     cout << ans << "\n";
-}
- 
-int main(){
-    velocito;
-    int tc = 1;
-    // cin >> tc;
-    while(tc--){
-        solve();
-    }
-    return 0;
 }
  
 //Sabroseando el code.
