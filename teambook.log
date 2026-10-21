@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  19 OCT 2026 10:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  21 OCT 2026 11:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -392,11 +392,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [2]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 66.
- (./Math/fft_para_matching.cpp
+ (./Math/Fft_Para_Matching.cpp
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <7> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 1.
-) (./Math/Sieve_of_eratosthenes.cpp)
-(./Math/Euler_Phi.cpp) (./Math/fft.cpp
+) (./Math/Sieve_of_Eratosthenes.cpp)
+(./Math/Euler_Phi.cpp) (./Math/Fft.cpp
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
@@ -406,8 +406,8 @@ been already used, duplicate ignored
 l.11         if 
                 (i < j) [1])
 
-[2] (./Math/fft_para_comparar_rotaciones.cpp) (./Math/Binary_Exponentiation.cpp
-) (./Math/Chinese Rest Theorem.cpp
+[2] (./Math/Fft_Para_Comparar_Rotaciones.cpp) (./Math/Binary_Exponentiation.cpp
+) (./Math/Chinese_Rest_Theorem.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECâ).
 
@@ -473,54 +473,34 @@ l.40 // x ‚â°
 ? 
 ) (./Math/Extended_Euclides.cpp)
 
-[4] (./Math/Fibonacci Log(N).cpp) (./Math/Least Common Multiple.cpp)
+[4] (./Math/Fibonacci_Log(n).cpp) (./Math/Least_Common_Multiple.cpp)
 (./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
 
 [5]) (./Geometry/Canonical_Line_and_Perpendicular_Line.cpp
 
-[6]) (./Geometry/Convex_Hull.cpp) (./Geometry/Line_Segment_Intersection.cpp)
+[6]) (./Geometry/Closest_Pair_of_Points.cpp)
+(./Geometry/Closest_Pair_of_Points_Lineal.cpp
+
+[7]
+
+[8]) (./Geometry/Convex_Hull.cpp) (./Geometry/Line_Segment_Intersection.cpp)
 (./Geometry/Point.cpp
 
-[7]) (./Geometry/Point_in_Polygon.cpp) (./Geometry/Polygon_Convex_Area.cpp)
+[9]) (./Geometry/Point_in_Polygon.cpp) (./Geometry/Polygon_Convex_Area.cpp
 
-[8] (./Geometry/Polygon_Lattice_Points.cpp)
-(./Geometry/closest_pair_of_points_lineal.cpp
+[10]) (./Geometry/Polygon_Lattice_Points.cpp) (./Strings/Kmp.cpp
 
-[9]) (./Geometry/closest_pair_of_points_nlogn.cpp
+[11]) (./Strings/Z_Function.cpp) (./Strings/Trie.cpp
 
-! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27         // sacar puntos que ya est√°n 
-                                           demasiado lejos en x
-? 
-
-! LaTeX Error: Invalid UTF-8 byte "A1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27         // sacar puntos que ya est√°n 
-                                           demasiado lejos en x
-? 
-
-
-[10]) (./Strings/KMP.cpp
-
-[11]) (./Strings/Z_Function.cpp) (./Strings/Trie.cpp)
-(./Strings/Suffix_Array.cpp
-
-[12]
+[12]) (./Strings/Suffix_Array.cpp
 
 [13]) (./Strings/Aho_Corasick.cpp
 
 [14]
 
-[15]) (./Strings/Booths Algorithm.cpp
+[15])
+
+[16] (./Strings/Booths_Algorithm.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -541,9 +521,9 @@ Type  H <return>  for immediate help.
 l.1 ...goritmo para menor rotacion lexicograf√≠ca 
                                                   de un string en O(N)
 ? 
-) (./Strings/Hashing 2D.cpp
+) (./Strings/Hashing.cpp
 
-[16]
+[17]) (./Strings/Hashing_2d.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -565,6 +545,9 @@ l.21     // Hash de la matriz patr√≥n.
                                       
 ? 
 
+
+[18]
+
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -584,16 +567,12 @@ Type  H <return>  for immediate help.
 l.100 ...eldas pertenecientes a alguna aparici√≥n.
                                                   
 ? 
+) (./Strings/Manacher.cpp) (./Bit_Manipulation/Binary_Representation.cpp
 
-
-[17]) (./Strings/Hashing.cpp) (./Strings/Manacher.cpp
-
-[18]) (./Bit_Manipulation/Binary_Representation.cpp)
-(./Bit_Manipulation/Bit_Mask.cpp)
-(./Bit_Manipulation/Bits prendidos en un numero X en una posicion pos.cpp)
-(./Bit_Manipulation/Turn off a bit at position x.cpp
-
-[19]) (./Bit_Manipulation/Xor_Basis.cpp
+[19]) (./Bit_Manipulation/Bit_Mask.cpp)
+(./Bit_Manipulation/Bits_Prendidos_En_Un_Numero_X_En_Una_Posicion_Pos.cpp)
+(./Bit_Manipulation/Turn_Off_a_Bit_at_Position_X.cpp)
+(./Bit_Manipulation/Xor_Basis.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -634,6 +613,9 @@ Type  H <return>  for immediate help.
 l.16     // 2. Comprueba si un valor espec√≠fico 
                                                  se puede formar usando XOR
 ? 
+
+
+[20]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\lst@FillFixed@).
 
@@ -720,31 +702,30 @@ l.44 .... Obtiene el k-√©simo valor m√°s peque√±o
                                                   que se puede formar (0-ind...
 
 ? 
-)
+) (./Data Structures/Segment_Tree.cpp
 
-[20] (./Data Structures/Segment_Tree.cpp)
-(./Data Structures/Segment_Tree_Iterativo.cpp
+[21]) (./Data Structures/Segment_Tree_Iterativo.cpp)
+(./Data Structures/Segment_Tree_Lazy_Propagation.cpp
 
-[21]) (./Data Structures/Segment_Tree_Lazy_Propagation.cpp
+[22]) (./Data Structures/Bit_1d.cpp
 
-[22]) (./Data Structures/Bit_1D.cpp) (./Data Structures/Bit_2D.cpp)
-(./Data Structures/Bit_2D_Infinite_Plane.cpp
+[23]) (./Data Structures/Bit_2d.cpp)
+(./Data Structures/Bit_2d_Infinite_Plane.cpp
 
-[23]
-
-[24]) (./Data Structures/Bit_3D.cpp)
-(./Data Structures/DSU_Dynamic_Representative.cpp
+[24]) (./Data Structures/Bit_3d.cpp
 
 [25]) (./Data Structures/Disjoint_Set_Union.cpp)
-(./Data Structures/Dynamic_Connectivity_Offline.cpp
+(./Data Structures/Dsu_Dynamic_Representative.cpp
 
-[26]
+[26]) (./Data Structures/Dynamic_Connectivity_Offline.cpp
 
 [27]) (./Data Structures/Implicit_Treap.cpp
 
-[28]) (./Data Structures/Ordered_Set.cpp) (./Data Structures/Range_Bit.cpp
+[28]) (./Data Structures/Ordered_Set.cpp
 
-[29]) (./Data Structures/Sparse_Table.cpp
+[29]) (./Data Structures/Range_Bit.cpp) (./Data Structures/Sparse_Table.cpp
+
+[30]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÜ).
 
@@ -767,24 +748,23 @@ l.23 // query(1, 4) ‚Üí
 ? 
 ) (./Data Structures/Treap.cpp
 
-[30]) (./Dynamic_Programing/Bounded_Knapsack.cpp
+[31]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
+(./Dynamic_Programing/Digit_Dp.cpp
 
-[31]) (./Dynamic_Programing/Digit_DP.cpp) (./Dynamic_Programing/Kadane_2D.cpp
+[32]) (./Dynamic_Programing/Fastfibo.cpp
 
-[32]) (./Dynamic_Programing/Kadane_3D.cpp)
-(./Dynamic_Programing/Longest_Increasing_Subsequence.cpp)
-(./Dynamic_Programing/SOS_DP.cpp
+[33]) (./Dynamic_Programing/Kadane_2d.cpp) (./Dynamic_Programing/Kadane_3d.cpp)
 
-[33]) (./Dynamic_Programing/fastfibo.cpp) (./Flow/Dinic.cpp
 
-[34]) (./Graph Algorithms/Dijkstra.cpp
+[34] (./Dynamic_Programing/Longest_Increasing_Subsequence.cpp)
+(./Dynamic_Programing/Sos_Dp.cpp) (./Flow/Dinic.cpp
 
-[35]) (./Graph Algorithms/Kruskal_MST.cpp)
-(./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp
+[35]) (./Graph Algorithms/Dijkstra.cpp) (./Graph Algorithms/Kruskal_Mst.cpp
 
-[36]) (./Graph Algorithms/Kosaraju.cpp)
+[36]) (./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp)
+(./Graph Algorithms/Kosaraju.cpp
 
-[37] (./Graph Algorithms/Bridges.cpp
+[37]) (./Graph Algorithms/Bridges.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -805,28 +785,33 @@ Type  H <return>  for immediate help.
 l.22             // El sub√°rbol 
                                  de v puede llegar hasta...
 ? 
-) (./Graph Algorithms/Kuhn.cpp) (./Graph Algorithms/2SAT.cpp
+) (./Graph Algorithms/Kuhn.cpp
 
-[38]) (./Tree Algorithms/prim.cpp)
+[38]) (./Graph Algorithms/2sat.cpp
 
-[39] (./Tree Algorithms/Euler_Tour.cpp) (./Tree Algorithms/Binary_Lifting.cpp)
-(./Tree Algorithms/Binary_Lifting2.cpp)
+[39]) (./Tree Algorithms/Prim.cpp) (./Tree Algorithms/Euler_Tour.cpp)
+(./Tree Algorithms/Binary_Lifting.cpp
 
-[40] (./Tree Algorithms/Centroid_Decomposition.cpp
+[40]) (./Tree Algorithms/Binary_Lifting2.cpp)
+(./Tree Algorithms/Centroid_Decomposition.cpp
 
-[41]) (./Tree Algorithms/ChuLiuEdmonds.cpp
+[41]
 
-[42]) (./Tree Algorithms/ChuLiuEdmonds_Construction.cpp
+[42]) (./Tree Algorithms/Chuliuedmonds.cpp)
+(./Tree Algorithms/Chuliuedmonds_Construction.cpp
 
 [43]
 
-[44]) (./Tree Algorithms/HLD.cpp
+[44]) (./Tree Algorithms/Hld.cpp
 
-[45]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp
+[45]
 
-[46]) (./Utilities/Prime Numbers.cpp) (./Utilities/ASCII TABLE.cpp
+[46]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
+(./Utilities/Prime_Numbers.cpp
 
-[47]) (./Utilities/CMP_for_Sort.cpp) (./Utilities/Int128.cpp
+[47]) (./Utilities/Ascii_Table.cpp
+
+[48]) (./Utilities/Cmp_for_Sort.cpp) (./Utilities/Int128.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
 
@@ -887,29 +872,29 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESI√ìN B√ÅSICA 
                                ---
 ? 
+) (./Utilities/Merge_Sort.cpp
 
+[49]) (./Utilities/Plantilla_Python.cpp) (./Utilities/Pragma.cpp)
 
-[48]) (./Utilities/Merge_Sort.cpp) (./Utilities/Preffix_Sum_2D.cpp)
+[50] (./Utilities/Preffix_Sum_2d.cpp) (./Utilities/Priority_Queue_Min_Heap.cpp)
+(./Utilities/Random.cpp)
 
-[49] (./Utilities/Priority Queue Min Heap.cpp) (./Utilities/Random.cpp)
-(./Utilities/plantilla_python.cpp) (./Utilities/pragma.cpp)
-
-[50] (./teambook.aux)
+[51] (./teambook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 8C4D8F284F6D4BBE9D8AF2117C93B163;12437.
+(rerunfilecheck)             Checksum: 7BEF3DD31E8BB411A817FC03107B963A;12404.
  ) 
 Here is how much of TeX's memory you used:
- 17605 strings out of 475178
- 271020 string characters out of 5766539
- 1526571 words of memory out of 5000000
- 36218 multiletter control sequences out of 15000+600000
+ 17689 strings out of 475178
+ 272171 string characters out of 5766539
+ 1636571 words of memory out of 5000000
+ 36244 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,79p,378b,1992s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,83p,378b,2016s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
 525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
 800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
@@ -920,10 +905,10 @@ knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (53 pages, 541834 bytes).
+Output written on teambook.pdf (54 pages, 547140 bytes).
 PDF statistics:
- 5861 PDF objects out of 6186 (max. 8388607)
- 5350 compressed objects within 54 object streams
- 4011 named destinations out of 4296 (max. 500000)
+ 5935 PDF objects out of 6186 (max. 8388607)
+ 5422 compressed objects within 55 object streams
+ 4069 named destinations out of 4296 (max. 500000)
  753 words of extra memory for PDF output out of 10000 (max. 10000000)
 
