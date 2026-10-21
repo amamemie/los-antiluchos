@@ -1,0 +1,84 @@
+./Bit_Manipulation/Binary_Representation.cpp
+./Bit_Manipulation/Bit_Mask.cpp
+./Bit_Manipulation/Bits_Prendidos_in_A_Number_X_in_A_Posicion_Pos.cpp
+./Bit_Manipulation/Turn_Off_A_Bit_at_Position_X.cpp
+./Bit_Manipulation/Xor_Basis.cpp
+./Data Structures/Bit_1d.cpp
+./Data Structures/Bit_2d.cpp
+./Data Structures/Bit_2d_Infinite_Plane.cpp
+./Data Structures/Bit_3d.cpp
+./Data Structures/Disjoint_Set_Union.cpp
+./Data Structures/Dsu_Dynamic_Representative.cpp
+./Data Structures/Dynamic_Connectivity_Offline.cpp
+./Data Structures/Implicit_Treap.cpp
+./Data Structures/Ordered_Set.cpp
+./Data Structures/Range_Bit.cpp
+./Data Structures/Segment_Tree.cpp
+./Data Structures/Segment_Tree_Iterativo.cpp
+./Data Structures/Segment_Tree_Lazy_Propagation.cpp
+./Data Structures/Sparse_Table.cpp
+./Data Structures/Treap.cpp
+./Dynamic_Programing/Bounded_Knapsack.cpp
+./Dynamic_Programing/Digit_Dp.cpp
+./Dynamic_Programing/Fastfibo.cpp
+./Dynamic_Programing/Kadane_2d.cpp
+./Dynamic_Programing/Kadane_3d.cpp
+./Dynamic_Programing/Longest_Increasing_Subsequence.cpp
+./Dynamic_Programing/Sos_Dp.cpp
+./Flow/Dinic.cpp
+./Geometry/Canonical_Line_and_Perpendicular_Line.cpp
+./Geometry/Closest_Pair_of_Points.cpp
+./Geometry/Closest_Pair_of_Points_Lineal.cpp
+./Geometry/Convex_Hull.cpp
+./Geometry/Line_Segment_Intersection.cpp
+./Geometry/Point.cpp
+./Geometry/Point_in_Polygon.cpp
+./Geometry/Polygon_Convex_Area.cpp
+./Geometry/Polygon_Lattice_Points.cpp
+./Graph Algorithms/2sat.cpp
+./Graph Algorithms/Bridges.cpp
+./Graph Algorithms/Dijkstra.cpp
+./Graph Algorithms/Kosaraju.cpp
+./Graph Algorithms/Kruskal_Mst.cpp
+./Graph Algorithms/Kuhn.cpp
+./Graph Algorithms/Topological_Sort_Kahn_Algorithm.cpp
+./Math/Binary_Exponentiation.cpp
+./Math/Chinese_Rest_Theorem.cpp
+./Math/Euler_Phi.cpp
+./Math/Extended_Euclides.cpp
+./Math/Fft.cpp
+./Math/Fft_for_Comparar_Rotaciones.cpp
+./Math/Fft_for_Matching.cpp
+./Math/Fibonacci_Log(n).cpp
+./Math/Least_Common_Multiple.cpp
+./Math/Modular_Inverse.cpp
+./Math/Pollard_Rho_Rabin_Miller.cpp
+./Math/Sieve_of_Eratosthenes.cpp
+./Strings/Aho_Corasick.cpp
+./Strings/Booths_Algorithm.cpp
+./Strings/Hashing_2d.cpp
+./Strings/Hashing.cpp
+./Strings/Kmp.cpp
+./Strings/Manacher.cpp
+./Strings/Suffix_Array.cpp
+./Strings/Trie.cpp
+./Strings/Z_Function.cpp
+./Tree Algorithms/Binary_Lifting2.cpp
+./Tree Algorithms/Binary_Lifting.cpp
+./Tree Algorithms/Centroid_Decomposition.cpp
+./Tree Algorithms/Chuliuedmonds_Construction.cpp
+./Tree Algorithms/Chuliuedmonds.cpp
+./Tree Algorithms/Euler_Tour.cpp
+./Tree Algorithms/Hld.cpp
+./Tree Algorithms/Lowest_Common_Ancestor.cpp
+./Tree Algorithms/Prim.cpp
+./Utilities/Ascii_Table.cpp
+./Utilities/Cmp_for_Sort.cpp
+./Utilities/Int128.cpp
+./Utilities/Merge_Sort.cpp
+./Utilities/Plantilla_Python.cpp
+./Utilities/Pragma.cpp
+./Utilities/Preffix_Sum_2d.cpp
+./Utilities/Prime_Numbers.cpp
+./Utilities/Priority_Queue_Min_Heap.cpp
+./Utilities/Random.cpp

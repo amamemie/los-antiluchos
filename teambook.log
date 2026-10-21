@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  21 OCT 2026 11:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.15)  21 OCT 2026 11:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -392,22 +392,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [2]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 66.
- (./Math/Fft_for_Matching.cpp
+ (./Math/FFT_for_Matching.cpp
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <7> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 1.
 ) (./Math/Sieve_of_Eratosthenes.cpp)
-(./Math/Euler_Phi.cpp) (./Math/Fft.cpp
+(./Math/Euler_Phi.cpp) (./Math/FFT_for_Comparing_Rotations.cpp
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.11         if 
-                (i < j) [1])
+l.10     for(
+             int i = 0; i < n; i++){ [1]) (./Math/Fft.cpp
 
-[2] (./Math/Fft_for_Comparar_Rotaciones.cpp) (./Math/Binary_Exponentiation.cpp)
-(./Math/Chinese_Rest_Theorem.cpp
+[2]) (./Math/Binary_Exponentiation.cpp) (./Math/Chinese_Rest_Theorem.cpp
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@EC�).
 
@@ -417,12 +416,6 @@ Type  H <return>  for immediate help.
                                                   
 l.18 // x ≡ 
               a (mod m)
-? \
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
 ? 
 
 ! LaTeX Error: Invalid UTF-8 byte "A1.
@@ -477,10 +470,10 @@ Type  H <return>  for immediate help.
 l.40 // x ≡ 
               a[i] (mod m[i]) para todo i
 ? 
-) (./Math/Extended_Euclides.cpp)
+) (./Math/Extended_Euclidean_Algorithm.cpp) (./Math/Least_Common_Multiple.cpp
 
-[4] (./Math/Fibonacci_Log(n).cpp) (./Math/Least_Common_Multiple.cpp)
-(./Math/Modular_Inverse.cpp) (./Math/Pollard_Rho_Rabin_Miller.cpp
+[4]) (./Math/Logarithmic_Fibonacci.cpp) (./Math/Modular_Inverse.cpp)
+(./Math/Pollard_Rho_and_Miller_Rabin.cpp
 
 [5]) (./Geometry/Canonical_Line_and_Perpendicular_Line.cpp
 
@@ -576,7 +569,7 @@ l.100 ...eldas pertenecientes a alguna aparición.
 ) (./Strings/Manacher.cpp) (./Bit_Manipulation/Binary_Representation.cpp
 
 [19]) (./Bit_Manipulation/Bit_Mask.cpp)
-(./Bit_Manipulation/Bits_Prendidos_in_A_Number_X_in_A_Posicion_Pos.cpp)
+(./Bit_Manipulation/Set_Bits_in_a_Number.cpp)
 (./Bit_Manipulation/Turn_Off_A_Bit_at_Position_X.cpp)
 (./Bit_Manipulation/Xor_Basis.cpp
 
@@ -708,17 +701,17 @@ l.44 .... Obtiene el k-ésimo valor más pequeño
                                                   que se puede formar (0-ind...
 
 ? 
-) (./Data Structures/Segment_Tree.cpp
+) (./Data Structures/Iterative_Segment_Tree.cpp
 
-[21]) (./Data Structures/Segment_Tree_Iterativo.cpp)
+[21]) (./Data Structures/Segment_Tree.cpp)
 (./Data Structures/Segment_Tree_Lazy_Propagation.cpp
 
-[22]) (./Data Structures/Bit_1d.cpp
+[22]) (./Data Structures/1D_Binary_Indexed_Tree.cpp
 
-[23]) (./Data Structures/Bit_2d.cpp)
-(./Data Structures/Bit_2d_Infinite_Plane.cpp
+[23]) (./Data Structures/2D_Binary_Indexed_Tree.cpp)
+(./Data Structures/2D_Binary_Indexed_Tree_Infinite_Plane.cpp
 
-[24]) (./Data Structures/Bit_3d.cpp
+[24]) (./Data Structures/3D_Binary_Indexed_Tree.cpp
 
 [25]) (./Data Structures/Disjoint_Set_Union.cpp)
 (./Data Structures/Dsu_Dynamic_Representative.cpp
@@ -757,7 +750,7 @@ l.23 // query(1, 4) →
 [31]) (./Dynamic_Programing/Bounded_Knapsack.cpp)
 (./Dynamic_Programing/Digit_Dp.cpp
 
-[32]) (./Dynamic_Programing/Fastfibo.cpp
+[32]) (./Dynamic_Programing/Fast_Fibonacci.cpp
 
 [33]) (./Dynamic_Programing/Kadane_2d.cpp) (./Dynamic_Programing/Kadane_3d.cpp)
 
@@ -803,19 +796,19 @@ l.22             // El subárbol
 
 [41]
 
-[42]) (./Tree Algorithms/Chuliuedmonds.cpp)
-(./Tree Algorithms/Chuliuedmonds_Construction.cpp
+[42]) (./Tree Algorithms/Chu_Liu_Edmonds.cpp)
+(./Tree Algorithms/Chu_Liu_Edmonds_Construction.cpp
 
 [43]
 
-[44]) (./Tree Algorithms/Hld.cpp
+[44]) (./Tree Algorithms/Heavy_Light_Decomposition.cpp
 
 [45]
 
 [46]) (./Tree Algorithms/Lowest_Common_Ancestor.cpp)
 (./Utilities/Prime_Numbers.cpp
 
-[47]) (./Utilities/Ascii_Table.cpp
+[47]) (./Utilities/2D_Prefix_Sum.cpp) (./Utilities/Ascii_Table.cpp
 
 [48]) (./Utilities/Cmp_for_Sort.cpp) (./Utilities/Int128.cpp
 
@@ -878,12 +871,12 @@ Type  H <return>  for immediate help.
 l.21 // --- IMPRESIÓN BÁSICA 
                                ---
 ? 
-) (./Utilities/Merge_Sort.cpp
+)
 
-[49]) (./Utilities/Plantilla_Python.cpp) (./Utilities/Pragma.cpp)
+[49] (./Utilities/Merge_Sort.cpp) (./Utilities/Pragma.cpp)
+(./Utilities/Priority_Queue_Min_Heap.cpp) (./Utilities/Python_Template.cpp
 
-[50] (./Utilities/Preffix_Sum_2d.cpp) (./Utilities/Priority_Queue_Min_Heap.cpp)
-(./Utilities/Random.cpp)
+[50]) (./Utilities/Random.cpp)
 
 [51] (./teambook.aux)
  ***********
@@ -891,16 +884,16 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 292F13BFAC1C792790AA675E122FEABD;12379.
+(rerunfilecheck)             Checksum: 42B526D469AEC0EE76336A5DB8CEFBEB;12849.
  ) 
 Here is how much of TeX's memory you used:
  17689 strings out of 475178
- 272141 string characters out of 5766539
- 1636571 words of memory out of 5000000
+ 272685 string characters out of 5766539
+ 1497571 words of memory out of 5000000
  36244 multiletter control sequences out of 15000+600000
  567379 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,83p,363b,2016s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,83p,330b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecit0800.
 525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0
 800.525pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/e
@@ -911,9 +904,9 @@ knappen/ec/ecbx1000.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/ecbx1440.600pk> </home/amamemie/.texlive2025/texmf-var/fonts/pk/
 ljfour/jknappen/ec/eccc0900.600pk> </home/amamemie/.texlive2025/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx3583.600pk>
-Output written on teambook.pdf (54 pages, 547138 bytes).
+Output written on teambook.pdf (54 pages, 546169 bytes).
 PDF statistics:
- 5935 PDF objects out of 6186 (max. 8388607)
+ 5931 PDF objects out of 6186 (max. 8388607)
  5422 compressed objects within 55 object streams
  4069 named destinations out of 4296 (max. 500000)
  753 words of extra memory for PDF output out of 10000 (max. 10000000)
