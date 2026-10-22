@@ -1,0 +1,38 @@
+//hash para caracteres unitariosy concatenacion de hashes mediante rolling hash
+ll MOD[2];
+vector<ll> pw[2];
+
+void initHash(int n){
+    MOD[0] = 999727999;
+    MOD[1] = 1070777777;
+    ll P = 1777771;
+    repl(k,0,2){
+        pw[k].resize(n+1);
+    }
+    repl(k,0,2){
+        pw[k][0] = 1;
+        ll p = 1;
+        repl(i,1,n+1){
+            pw[k][i] = (1LL*pw[k][i-1]*P)%MOD[k];
+
+            p = (p*P)%MOD[k];
+        }
+    }
+}
+
+ll hashChar(char c){
+    ll x = c;
+    return (x << 32) | x;
+}
+
+ll join(ll a, ll b, int lenA){
+    ll a0 = a >> 32;
+    ll a1 = a&0xffffffffLL;
+    ll b0 = b>>32;
+    ll b1 = b&0xffffffffLL;
+
+    a0 = (a0 + b0*pw[0][lenA])%MOD[0];
+    a1 = (a1 + b1*pw[1][lenA])%MOD[1];
+
+    return (a0 << 32) | a1;
+}
