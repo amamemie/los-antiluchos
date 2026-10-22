@@ -12,83 +12,84 @@
 \contentsline {subsection}{\numberline {1.11}{Modular Inverse}}{5}{subsection.1.11}%
 \contentsline {subsection}{\numberline {1.12}{Pollard Rho and Miller Rabin}}{5}{subsection.1.12}%
 \contentsline {section}{\numberline {2}Geometry}{6}{section.2}%
-\contentsline {subsection}{\numberline {2.1}{Canonical Line and Perpendicular Line}}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}{Closest Pair of Points}}{7}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}{Closest Pair of Points Lineal}}{7}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}{Convex Hull}}{9}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}{Line Segment Intersection}}{9}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}{Point}}{9}{subsection.2.6}%
-\contentsline {subsection}{\numberline {2.7}{Point in Polygon}}{10}{subsection.2.7}%
-\contentsline {subsection}{\numberline {2.8}{Polygon Convex Area}}{10}{subsection.2.8}%
-\contentsline {subsection}{\numberline {2.9}{Polygon Lattice Points}}{11}{subsection.2.9}%
-\contentsline {section}{\numberline {3}Strings}{11}{section.3}%
-\contentsline {subsection}{\numberline {3.1}{Kmp}}{11}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}{Z Function}}{12}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}{Trie}}{12}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}{Suffix Array}}{13}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}{Aho Corasick}}{14}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}{Booths Algorithm}}{17}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}{Hashing}}{17}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}{Hashing 2d}}{18}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9}{Manacher}}{19}{subsection.3.9}%
-\contentsline {section}{\numberline {4}Bit Manipulation}{19}{section.4}%
-\contentsline {subsection}{\numberline {4.1}{Binary Representation}}{19}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}{Bit Mask}}{20}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}{Set Bits in a Number}}{20}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}{Turn Off a Bit at Position X}}{20}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}{Xor Basis}}{20}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Data Structures}{21}{section.5}%
-\contentsline {subsection}{\numberline {5.1}{Iterative Segment Tree}}{21}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}{Segment Tree}}{22}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}{Segment Tree Lazy Propagation}}{22}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}{1D Binary Indexed Tree}}{23}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}{2D Binary Indexed Tree}}{24}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}{2D Binary Indexed Tree Infinite Plane}}{24}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7}{3D Binary Indexed Tree}}{25}{subsection.5.7}%
-\contentsline {subsection}{\numberline {5.8}{Disjoint Set Union}}{26}{subsection.5.8}%
-\contentsline {subsection}{\numberline {5.9}{Dsu Dynamic Representative}}{26}{subsection.5.9}%
-\contentsline {subsection}{\numberline {5.10}{Dynamic Connectivity Offline}}{27}{subsection.5.10}%
-\contentsline {subsection}{\numberline {5.11}{Implicit Treap}}{28}{subsection.5.11}%
-\contentsline {subsection}{\numberline {5.12}{Ordered Set}}{29}{subsection.5.12}%
-\contentsline {subsection}{\numberline {5.13}{Range Bit}}{30}{subsection.5.13}%
-\contentsline {subsection}{\numberline {5.14}{Sparse Table}}{30}{subsection.5.14}%
-\contentsline {subsection}{\numberline {5.15}{Treap}}{31}{subsection.5.15}%
-\contentsline {section}{\numberline {6}Dynamic Programing}{32}{section.6}%
-\contentsline {subsection}{\numberline {6.1}{Bounded Knapsack}}{32}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}{Digit Dp}}{32}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}{Fast Fibonacci}}{33}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}{Kadane 2d}}{34}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}{Kadane 3d}}{34}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}{Longest Increasing Subsequence}}{35}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}{Sos Dp}}{35}{subsection.6.7}%
-\contentsline {section}{\numberline {7}Flow}{35}{section.7}%
-\contentsline {subsection}{\numberline {7.1}{Dinic}}{35}{subsection.7.1}%
-\contentsline {section}{\numberline {8}Graph Algorithms}{36}{section.8}%
-\contentsline {subsection}{\numberline {8.1}{Dijkstra}}{36}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}{Kruskal Mst}}{36}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}{Topological Sort Kahn Algorithm}}{37}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}{Kosaraju}}{37}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}{Bridges}}{38}{subsection.8.5}%
-\contentsline {subsection}{\numberline {8.6}{Kuhn}}{38}{subsection.8.6}%
-\contentsline {subsection}{\numberline {8.7}{2sat}}{39}{subsection.8.7}%
-\contentsline {section}{\numberline {9}Tree Algorithms}{40}{section.9}%
-\contentsline {subsection}{\numberline {9.1}{Prim}}{40}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}{Euler Tour}}{40}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}{Binary Lifting}}{41}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}{Binary Lifting2}}{41}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}{Centroid Decomposition}}{41}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}{Chu Liu Edmonds}}{43}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}{Chu Liu Edmonds Construction}}{43}{subsection.9.7}%
-\contentsline {subsection}{\numberline {9.8}{Heavy Light Decomposition}}{45}{subsection.9.8}%
-\contentsline {subsection}{\numberline {9.9}{Lowest Common Ancestor}}{47}{subsection.9.9}%
-\contentsline {section}{\numberline {10}Utilities}{47}{section.10}%
-\contentsline {subsection}{\numberline {10.1}{Prime Numbers}}{47}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}{2D Prefix Sum}}{48}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}{Ascii Table}}{48}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}{Cmp for Sort}}{49}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}{Int128}}{49}{subsection.10.5}%
-\contentsline {subsection}{\numberline {10.6}{Merge Sort}}{50}{subsection.10.6}%
-\contentsline {subsection}{\numberline {10.7}{Pragma}}{50}{subsection.10.7}%
-\contentsline {subsection}{\numberline {10.8}{Priority Queue Min Heap}}{50}{subsection.10.8}%
-\contentsline {subsection}{\numberline {10.9}{Python Template}}{50}{subsection.10.9}%
-\contentsline {subsection}{\numberline {10.10}{Random}}{51}{subsection.10.10}%
+\contentsline {subsection}{\numberline {2.1}{Area of Rectangles}}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}{Canonical Line and Perpendicular Line}}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}{Closest Pair of Points}}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}{Closest Pair of Points Lineal}}{9}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}{Convex Hull}}{10}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}{Line Segment Intersection}}{10}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}{Point}}{11}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}{Point in Polygon}}{11}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}{Polygon Convex Area}}{12}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}{Polygon Lattice Points}}{12}{subsection.2.10}%
+\contentsline {section}{\numberline {3}Strings}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}{Kmp}}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}{Z Function}}{13}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}{Trie}}{13}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}{Suffix Array}}{14}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}{Aho Corasick}}{16}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}{Booths Algorithm}}{18}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}{Hashing}}{18}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}{Hashing 2d}}{19}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}{Manacher}}{20}{subsection.3.9}%
+\contentsline {section}{\numberline {4}Bit Manipulation}{21}{section.4}%
+\contentsline {subsection}{\numberline {4.1}{Binary Representation}}{21}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}{Bit Mask}}{21}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}{Set Bits in a Number}}{21}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}{Turn Off a Bit at Position X}}{21}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}{Xor Basis}}{22}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Data Structures}{22}{section.5}%
+\contentsline {subsection}{\numberline {5.1}{Iterative Segment Tree}}{22}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}{Segment Tree}}{23}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}{Segment Tree Lazy Propagation}}{23}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}{1D Binary Indexed Tree}}{24}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}{2D Binary Indexed Tree}}{25}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}{2D Binary Indexed Tree Infinite Plane}}{25}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}{3D Binary Indexed Tree}}{27}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}{Disjoint Set Union}}{27}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}{Dsu Dynamic Representative}}{28}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}{Dynamic Connectivity Offline}}{28}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5.11}{Implicit Treap}}{30}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5.12}{Ordered Set}}{31}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5.13}{Range Bit}}{31}{subsection.5.13}%
+\contentsline {subsection}{\numberline {5.14}{Sparse Table}}{32}{subsection.5.14}%
+\contentsline {subsection}{\numberline {5.15}{Treap}}{32}{subsection.5.15}%
+\contentsline {section}{\numberline {6}Dynamic Programing}{33}{section.6}%
+\contentsline {subsection}{\numberline {6.1}{Bounded Knapsack}}{33}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}{Digit Dp}}{33}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}{Fast Fibonacci}}{34}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}{Kadane 2d}}{35}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}{Kadane 3d}}{35}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}{Longest Increasing Subsequence}}{36}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}{Sos Dp}}{36}{subsection.6.7}%
+\contentsline {section}{\numberline {7}Flow}{36}{section.7}%
+\contentsline {subsection}{\numberline {7.1}{Dinic}}{36}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Graph Algorithms}{37}{section.8}%
+\contentsline {subsection}{\numberline {8.1}{Dijkstra}}{37}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}{Kruskal Mst}}{38}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}{Topological Sort Kahn Algorithm}}{38}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}{Kosaraju}}{39}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}{Bridges}}{39}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}{Kuhn}}{40}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}{2sat}}{40}{subsection.8.7}%
+\contentsline {section}{\numberline {9}Tree Algorithms}{41}{section.9}%
+\contentsline {subsection}{\numberline {9.1}{Prim}}{41}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}{Euler Tour}}{41}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}{Binary Lifting}}{42}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}{Binary Lifting2}}{42}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}{Centroid Decomposition}}{42}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}{Chu Liu Edmonds}}{44}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}{Chu Liu Edmonds Construction}}{45}{subsection.9.7}%
+\contentsline {subsection}{\numberline {9.8}{Heavy Light Decomposition}}{47}{subsection.9.8}%
+\contentsline {subsection}{\numberline {9.9}{Lowest Common Ancestor}}{48}{subsection.9.9}%
+\contentsline {section}{\numberline {10}Utilities}{49}{section.10}%
+\contentsline {subsection}{\numberline {10.1}{Prime Numbers}}{49}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}{2D Prefix Sum}}{49}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}{Ascii Table}}{49}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}{Cmp for Sort}}{50}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}{Int128}}{50}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}{Merge Sort}}{51}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}{Pragma}}{51}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}{Priority Queue Min Heap}}{51}{subsection.10.8}%
+\contentsline {subsection}{\numberline {10.9}{Python Template}}{52}{subsection.10.9}%
+\contentsline {subsection}{\numberline {10.10}{Random}}{52}{subsection.10.10}%
