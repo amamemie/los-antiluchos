@@ -17,3 +17,4 @@ pair<ll,ll> pick(vector<point>& v) {
 
     return {I, B};
 }
+// el poligono no debe intersectarse, puede NO ser convexo y lov puntos en el vector deben ser adyacentes.
