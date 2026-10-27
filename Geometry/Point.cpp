@@ -28,3 +28,12 @@ void polarSort(vector<point>& v) {
     return (a^b) > 0;
   });
 }
+
+double tama(point x){
+	return sqrt(x.x*x.x + x.y+x.y);
+}
+
+double angle(point v, point w){
+	double cosTheta = v*w / tama(v) / tama(w);
+	return acos(max(-1,0, min(1,0, cosTheta)));
+}
